@@ -39,6 +39,10 @@ h1 {
 
 h1.name {
   font-size: 4em;
+}
+
+h1.my.name {
+  letter-spacing: .2em;
   text-transform: uppercase;
 }
 
