@@ -14,7 +14,7 @@ catmap :
 <h2>{{ pretty_category }}</h2>
 <ul>
   {% for post in category_posts %}
-    <li><a href='{{ BASE_PATH }}{{ post.url }}'>{{ post.title }}</a></li>
+    <li><a href='{{ site.BASE_PATH }}{{ post.url }}'>{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 {% endfor %}
