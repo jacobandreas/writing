@@ -29,26 +29,27 @@ party with no fewer than three princes in attendance; my old roommate had a bit
 of a scheduling panic at the beginning of last summer because she'd won so many
 scholarships she found herself required to attend three receptions
 simultaneously on opposite sides of the country. That guy you do your problem
-sets with turns out to be a NIPS reviewer; the girl who sits behind you in
-lecture has a column in _Forbes_; the kid in your Chinese class has been all
+sets with turns out to be a NIPS reviewer; the girl sitting behind you in
+lecture has a column in _Forbes_; some kid in your Chinese class has been all
 over TechCrunch for the last week; the ditzy cheerleader in your seminar is
 proficient in several ancient languages. And so on.
 
 Of course there are exceptions: barely-competent essayists, prospective
 economists who can't wrap their minds around differential calculus and (my
 personal scourge) computer scientists who cannot for the life of them write a
-well-formed proof. This is usually brushed away with "well, they're just good at
-something else", which I am willing to grant for students in University Writing
-and Principles of Economics but not in graduate cryptography courses. Even at a
-school like this, there are enough spots set aside for athletes, legacies and
-donors' children that one is guaranteed a certain number of duds.[^2]
+well-formed proof. This is usually brushed away with an insistence that they're
+just good at something else, which I am willing to grant for students in
+University Writing and Principles of Economics but not in graduate cryptography
+courses. Even at a school like this, there are enough spots set aside for
+athletes, legacies and donors' children that one is guaranteed a certain number
+of duds.[^2]
 
 There's a broader issue: we purport to assemble the most interesting student
-body possible, but the usual inputs to the admissions process--SAT scores,
-personal statements, lists of prizes--are only weakly correlated with
+body possible, but the usual inputs to the admissions process---SAT scores,
+personal statements, lists of prizes---are only weakly correlated with
 interestingness, itself an ill-defined concept. I like to think that Columbia
 does a better job of picking than most (or more precisely, their criteria for
-interestingness are closest to mine--the school's location selects for maturity
+interestingness are closest to mine---the school's location selects for maturity
 and the curriculum against monomania[^3]) but we are no closer to solving the
 selection problem than anybody else.[^4] In general, the four years of high
 school are not enough to separate the prodigious from the merely precocious; as
@@ -63,7 +64,7 @@ are not, for the most part, the ones who define your experience at Columbia.
 
 The good news is that very smart, very interesting people are sufficiently dense
 within the remainder that one doesn't have to look very far for company. Most of
-my closest friends at Columbia lived on the sixth floor of John Jay with me
+my closest friends in college lived on the sixth floor of John Jay with me
 freshman year, and many of the defining memories of my Columbia experience
 surround ruinously long dinners with this group spent discussing the philosophy
 of history, the appropriate way to introduce a dictator, or the four-coloring

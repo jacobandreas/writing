@@ -8,13 +8,11 @@ Reading the Core Curriculum seems to be, approximately, the cultural equivalent
 of turning over a wet log: one returns, after class, to old narratives and
 political opinions and finds them crawling with intertext and rotten with hidden
 assumptions. LitHum changed the way I read, and CC changed the way I approach
-politics. The Core remains Columbia's most important institution.[^1] It's an
+politics. The Core is Columbia's most important institution.[^1] It's an
 extraordinary privilege, and an increasingly rare one, to be able to spend as
 much time as I have reading classics in fulfillment of an engineering degree,
-and it's a testament to the careful (one might say "intelligent") design of our
-program that the same books are relevant nearly a century after CC was first
-held.
-
+and it's a testament to the careful design of our program that the same books
+are relevant nearly a century after CC was first held.
 This is the American vision of undergraduate education in its purest and oldest
 form. We did not invent the liberal arts, but we did, with the "War Issues"
 course that became CC and eventually the LitHum-CC-Global Core trivium, champion
@@ -53,14 +51,14 @@ intimacy and the focus of their seminars once they're over. Indeed, the only
 people consistently happy with the Global Core are those who satisfy the
 requirement with classes deliberately modeled after LitHum or CC: Columbia is
 full of enthusiastic supporters of Nobility & Civility but not many of "Music of
-Southeast Asia". It's not that lectures aren't useful -- there's a reason
-they're the primary vehicle of instruction, even at Columbia -- but I've found
+Southeast Asia". It's not that lectures aren't useful---there's a reason
+they're the primary vehicle of instruction, even at Columbia---but I've found
 that in the handful of humanities lectures I've had, I tend to develop a solid
 understanding of the two or three texts I write essays about, and not much else.
 Being forced to give an oral defense of your interpretation, twice a week, does
 wonders for understanding.[^3]
 
-There's no doubt that we pay a price for the program -- organization of the
+There's no doubt that we pay a price for the program---organization of the
 128-ish seminars making up each semester's worth of LitHum and CC classes is
 both logistically and financially ruinous, and one wonders how many of the
 problems with student life at Columbia could be rectified if the time and money
@@ -72,23 +70,23 @@ in. My lasting memory of this school will be of the seminar table.
 Columbia began to provide reasonable private-college amenities like dormitories
 and advising, when it was in fact the only compelling reason to come.
 
-    While I'm obviously pleased to see our reputation improve (and watch the
+While I'm obviously pleased to see our reputation improve (and watch the
 corresponding plummet in acceptance rates), there's a part of me that's sad to
 see that distinction vanish as we grow, in all respects, more and more like our
 peer institutions. It's particularly alarming to see the HYP from my application
-days swell into CHYPS -- it's inconceivable that one person could seriously want
+days swell into CHYPS---it's inconceivable that one person could seriously want
 to go to all five, and I fear that our inclusion in the group marks the
 beginning of our transformation into an undifferentiated symbol of status. I
 imagine the sweet spot was probably the few years before I arrived, during which
 time we were selective but not prestigious, but I don't actually know whether
 the student experience then was better.
 
-[^2]: Certain after-parties of the Philolexian society excepted.
+[^2]: Certain after-parties of the Philolexian society possibly excepted.
 
 [^3]: And in those weeks when you haven't done the reading, wonders for your
 capacity to bullshit. It's certainly possible to survive the Core without
-reading a single book -- indeed, some instructors [encourage
-it](http://www.culpa.info/professors/84) -- but I managed to do about 80%
+reading a single book---indeed, some instructors [encourage
+it](http://www.culpa.info/professors/84)---but I managed to do about 80%
 without too much pain. I still seriously regret not staying up the extra couple
 of hours to finish <del>Mill</del> (finally read "On Liberty") and Ibn Khaldun.
 
