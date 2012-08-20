@@ -13,12 +13,8 @@ extraordinary privilege, and an increasingly rare one, to be able to spend as
 much time as I have reading classics in fulfillment of an engineering degree,
 and it's a testament to the careful design of our program that the same books
 are relevant nearly a century after CC was first held.
-This is the American vision of undergraduate education in its purest and oldest
-form. We did not invent the liberal arts, but we did, with the "War Issues"
-course that became CC and eventually the LitHum-CC-Global Core trivium, champion
-the notion that the liberal arts demand a central place in the modern college. 
 
-But why should they? Once upon a time Columbia and its brethren were little more
+But why bother? Once upon a time Columbia and its brethren were little more
 than finishing schools for the upper classes; in such circumstances this
 education was necessary because the cultivation of cultural literacy was the
 primary purpose of a college, a means to impress people who had been similarly
@@ -70,7 +66,7 @@ in. My lasting memory of this school will be of the seminar table.
 Columbia began to provide reasonable private-college amenities like dormitories
 and advising, when it was in fact the only compelling reason to come.
 
-While I'm obviously pleased to see our reputation improve (and watch the
+     While I'm obviously pleased to see our reputation improve (and watch the
 corresponding plummet in acceptance rates), there's a part of me that's sad to
 see that distinction vanish as we grow, in all respects, more and more like our
 peer institutions. It's particularly alarming to see the HYP from my application
