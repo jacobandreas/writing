@@ -14,21 +14,22 @@ much time as I have reading classics in fulfillment of an engineering degree,
 and it's a testament to the careful design of our program that the same books
 are relevant nearly a century after CC was first held.
 
-But why bother? Once upon a time Columbia and its brethren were little more
-than finishing schools for the upper classes; in such circumstances this
-education was necessary because the cultivation of cultural literacy was the
-primary purpose of a college, a means to impress people who had been similarly
-educated. This has long since ceased to be the case. Much as we joke that the
-Core is a training exercise for future cocktail parties, I've yet to find a
-moment when a clever citation from the _Leviathan_ was  called for in
-conversation.[^2] It is also not the case that the curriculum is of immediate
-instrumental value: I don't buy the claim, made occasionally, that forcing
-scientists to take the Core makes them better scientists. The _Origin of
-Species_, the only real scientific text on the syllabus, and _The Human
-Condition_, the text most directly concerned with the implications of the
-scientific worldview, both lead to fascinating discussions that were
-nevertheless totally unconducive to an understanding of scientific subject
-matter.
+Yet why, especially given all the present dialog about the tremendous economic
+costs of expensive and "useless" liberal-arts programs, bother? Once upon a time
+Columbia and its brethren were little more than finishing schools for the upper
+classes; in such circumstances this education was necessary because the
+cultivation of cultural literacy was the primary purpose of a college, a means
+to impress people who had been similarly educated. This has long since ceased to
+be the case. Much as we joke that the Core is a training exercise for future
+cocktail parties, I've yet to find a moment when a clever citation from the
+_Leviathan_ was  called for in conversation.[^2] It is also not the case that
+the curriculum is of immediate instrumental value: I don't buy the claim, made
+occasionally, that forcing scientists to take the Core makes them better
+scientists. The _Origin of Species_, the only real scientific text on the
+syllabus, and _The Human Condition_, the text most directly concerned with the
+implications of the scientific worldview, both lead to fascinating discussions
+that were nevertheless totally unconducive to an understanding of scientific
+subject matter.
 
 But science is no longer enough. To be in any position of leadership, whether
 that of the politician, the investor, or the principal investigator, demands a
@@ -70,12 +71,14 @@ and advising, when it was in fact the only compelling reason to come.
 corresponding plummet in acceptance rates), there's a part of me that's sad to
 see that distinction vanish as we grow, in all respects, more and more like our
 peer institutions. It's particularly alarming to see the HYP from my application
-days swell into CHYPS---it's inconceivable that one person could seriously want
-to go to all five, and I fear that our inclusion in the group marks the
-beginning of our transformation into an undifferentiated symbol of status. I
-imagine the sweet spot was probably the few years before I arrived, during which
-time we were selective but not prestigious, but I don't actually know whether
-the student experience then was better.
+days swell into CHYPS (a discovery made during an embarassingly long trawl
+through collegeconfidential.com prompted by a stray Bwog link)---it's
+inconceivable that one person could seriously want to go to all five, and I fear
+that our inclusion in the group marks the beginning of our transformation into
+an undifferentiated symbol of status. I imagine the sweet spot was probably the
+few years before I arrived, during which time we were selective but not
+prestigious, but I don't actually know whether the student experience then was
+better.
 
 [^2]: Certain after-parties of the Philolexian society possibly excepted.
 
