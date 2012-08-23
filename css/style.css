@@ -41,11 +41,6 @@ h1.name {
   font-size: 4em;
 }
 
-h1.my.name {
-  letter-spacing: .2em;
-  text-transform: uppercase;
-}
-
 h2 {
   font-size: 1.1em;
   line-height: 1em;
@@ -63,6 +58,10 @@ h3 {
 ul {
   list-style-type: square;
   margin: 1em 0;
+}
+
+ul.nobullet {
+  list-style-type: none;
 }
 
 section {
@@ -195,4 +194,29 @@ p.backlinks {
   text-align: right;
   text-indent: 0;
   margin-top: 1em;
+}
+
+@-webkit-keyframes blink-animation {
+  0% { opacity: .25; }
+  15% { opacity: 0; }
+  50% { opacity: 0; }
+  51% { opacity: 1; }
+}
+
+@-moz-keyframes blink-animation {
+  0% { opacity: .25; }
+  15% { opacity: 0; }
+  50% { opacity: 0; }
+  51% { opacity: 1; }
+}
+
+.blink {
+  -webkit-animation-name: blink-animation;
+  -webkit-animation-iteration-count: infinite;
+  /*-webkit-animation-timing-function: steps(1);*/
+  -webkit-animation-duration: 2.5s;
+  -moz-animation-name: blink-animation;
+  -moz-animation-iteration-count: infinite;
+  /*-moz-animation-timing-function: steps(1);*/
+  -moz-animation-duration: 2.5s;
 }

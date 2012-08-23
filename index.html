@@ -13,7 +13,7 @@ catmap :
   {% assign pretty_category = pair[1] %}
   {% assign category_posts = site.categories[raw_category] %}
 <h2>{{ pretty_category }}</h2>
-<ul>
+<ul class='nobullet'>
   {% for post in category_posts %}
     <li><a href='{{ site.BASE_PATH }}{{ post.url }}'>{{ post.title }}</a></li>
   {% endfor %}
