@@ -1,5 +1,5 @@
 ---
-title : Brief Notes on Summer Reading (2011)
+title : Brief notes on summer reading (2011)
 layout : essay
 categories : [reading]
 ---
