@@ -7,11 +7,12 @@ categories : [food]
 (Or, "In which I unsucessfully attempt to derail my roommates'
 [blog](http://allovernewyork.blogspot.com/) with a guest post".)
 
-There is a form of magnetism peculiar to booth seats in restaurants. As
-children, on a rare night out for spaghetti or ice cream, we would run squealing
-toward the periphery of the cafe, vaulting onto our elevated thrones of sticky
-red plastic. Now, serious adults though we are, we find ourselves irresistably
-drawn toward the banks of fused seating at the restaurant's back.
+<p class='offset'>There is a form of magnetism peculiar to booth seats in
+restaurants. As children, on a rare night out for spaghetti or ice cream, we
+would run squealing toward the periphery of the cafe, vaulting onto our elevated
+thrones of sticky red plastic. Now, serious adults though we are, we find
+ourselves irresistably drawn toward the banks of fused seating at the
+restaurant's back.</p>
 
 We continue to refer to this trip as our goat-eating expedition long after it
 becomes clear that this is not the season in which (as a friend has promised)
