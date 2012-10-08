@@ -13,6 +13,10 @@ body {
   color: #333;
 }
 
+img {
+  max-width:  100%;
+}
+
 /*html {
   border-style: solid;
   border-color: #000;
@@ -190,6 +194,11 @@ hr {
   content: ']';
 }
 
+.essay img {
+  outline: 3px solid #000;
+  margin: 1.666em 0;
+}
+
 p.backlinks {
   text-align: right;
   text-indent: 0;
@@ -219,4 +228,13 @@ p.backlinks {
   -moz-animation-iteration-count: infinite;
   /*-moz-animation-timing-function: steps(1);*/
   -moz-animation-duration: 2.5s;
+}
+
+.papertitle {
+  text-decoration: underline;
+  display: block;
+}
+
+.paperinfo {
+  color: #666;
 }
