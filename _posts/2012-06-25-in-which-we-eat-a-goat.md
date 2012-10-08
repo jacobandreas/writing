@@ -51,12 +51,11 @@ lemonade and taste like flesh; next as a stack of tumescent flatbreads; finally
 as endless plates of egg and stew and pilaf for whose wild polymorphism the menu
 has left us unprepared.
 
-We burn our fingers, submerging them in still-bubbling cast-iron pots as we try
+We burn our fingers, submerging them in still-bubbling cast iron pots as we try
 to dip our bread. We muddy our soup bowls, polluting them with stray pieces of
 meat and albumen which drop from our unexpert fingers. If there is a graceful
 way of eating rice with one's hands, we do not discover it---instead stuffing
-contorted fists full of oily grains directly into our mouths, tipping our heads
-back in a motion that shares something with a hungry chick accepting a
-half-masticated worm from its mother's mouth. It is, we agree, delicious.
+contorted fists full of oily grains directly into our mouths. 
 
-We eat until we are full, and then order another piece of bread and keep eating.
+Everything is delicious. We eat until we are full, and then order another piece
+of bread and keep eating.
