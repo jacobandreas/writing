@@ -51,6 +51,7 @@ h2 {
   margin: 1.333em 0;
   /*font-variant: small-caps;*/
   text-transform: uppercase;
+  word-spacing: 0.3em;
 }
 
 h3 {
@@ -238,3 +239,11 @@ p.backlinks {
 .paperinfo {
   color: #666;
 }
+
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+
+sub { top: 0.4em; }
