@@ -7,9 +7,9 @@ categories : [churchill]
 <img src="../attachments/storeys-end-1.jpg" />
 
 76 Storey's Way, now "Hostel V" in official college records, was once more
-vividly known as Storey's End and home to Ludwig Wittgenstein's doctor.
-Wittgenstein himself lived in the house during the final three months of his
-life, and is buried in a small cemetary just around the corner.
+vividly called "Storey's End". In those days it belonged to Ludwig
+Wittgenstein's doctor; Wittgenstein himself lived here during the final three
+months of his life, and is buried in a small cemetary just around the corner.
 
 So far I've been disappointed in my hopes of having a copy of the _Tractatus_
 flung at me by an irritated poltergeist. The author probably couldn't find his
@@ -37,7 +37,7 @@ Churchill and Trinity Hall playing fields---are the main graduate accommodation
 provided by the college. Near the end of the campus are family flats and a
 cluster of more modern single-occupancy apartments which are known as the
 "Pepperpots" but resemble no receptacle I have ever seen used for storing
-spices. The street terminates with a bright red mailbox bearing the royal cypher
+spices. The street terminates in a bright red mailbox bearing the royal cypher
 of George VI.
 
 Churchill College itself is a great deal less picturesque---the archetype of
