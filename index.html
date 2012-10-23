@@ -1,17 +1,16 @@
 ---
-title : Writing
-layout : index
-catmap :
-  school : College Days
-  reading : The Bookshelf
-  food : The Pantry
-  misc : Uncategorizable
-  churchill : Churchill Letters
+title:  Writing
+layout: index
+cat_order: [churchill, school, misc, reading, food]
+cat_names:
+  churchill: Churchill Letters
+  school:    College Days
+  misc:      Uncategorizable
+  reading:   The Bookshelf
+  food:      The Pantry
 ---
-
-{% for pair in page.catmap %}
-  {% assign raw_category = pair[0] %}
-  {% assign pretty_category = pair[1] %}
+{% for raw_category in page.cat_order %}
+  {% assign pretty_category = page.cat_names[raw_category] %}
   {% assign category_posts = site.categories[raw_category] %}
 <h2>{{ pretty_category }}</h2>
 <ul class='nobullet'>
