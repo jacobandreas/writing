@@ -179,8 +179,8 @@ hr {
 }
 
 .essay p sup {
-  vertical-align: bottom;
   font-size: 1em;
+  top: 0;
 }
 
 .essay p sup a {
