@@ -12,9 +12,9 @@ offers a vision of the future that's at least plausible; the world in Snow Crash
 feels too much like a slapstick routine to be believed.
 
 ## The Thousand Autumns of Jacob de Zoet
-This got one of the most enthusiastic reviews I've ever seen in the New Yorker.
-The book feels like an intricate piece of clockwork---it's clear from the
-beginning that it's been meticulously researched (the lengthy note on
+Mitchell got one of the most enthusiastic reviews I've ever seen in the New
+Yorker.  The book feels like an intricate piece of clockwork---it's clear from
+the beginning that it's been meticulously researched (the lengthy note on
 calendaring conventions certainly helps) carefully put together, and beautifully
 written. Indeed, the only problem is the story itself, with a villain taken
 straight out of a Disney movie and a crime so gruesome it nearly derails the
