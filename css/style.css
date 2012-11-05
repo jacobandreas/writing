@@ -13,6 +13,10 @@ body {
   color: #333;
 }
 
+body * {
+  text-rendering: optimizeLegibility;
+}
+
 img {
   max-width:  100%;
 }
@@ -174,7 +178,7 @@ hr {
   margin-bottom: 1em;
 }
 
-.footnotes a {
+.footnotes a[rev='footnote'] {
   text-decoration: none;
 }
 
@@ -223,11 +227,9 @@ p.backlinks {
 .blink {
   -webkit-animation-name: blink-animation;
   -webkit-animation-iteration-count: infinite;
-  /*-webkit-animation-timing-function: steps(1);*/
   -webkit-animation-duration: 2.5s;
   -moz-animation-name: blink-animation;
   -moz-animation-iteration-count: infinite;
-  /*-moz-animation-timing-function: steps(1);*/
   -moz-animation-duration: 2.5s;
 }
 
