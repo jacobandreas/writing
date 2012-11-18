@@ -25,7 +25,7 @@ of all shapes and shades rub shoulders in the same college and sometimes in the
 same building. Into facades alternately steel-clad and half-timbered are crammed
 wine merchants, vendors of upmarket yoga wear, centuries-old clothiers with
 storybook names like "Ede and Ravenscroft", dance clubs, bookstores, cheese
-shops. Overpriced sausage and d&ouml;ner carts prey on enthusiastic foreigners
+shops. Overpriced sausage and d&ouml;ner carts prey on gullible foreigners
 during the day and drunken students at night.
 
 The mile and a half from my door to the center of town is a gauntlet of angry
@@ -33,7 +33,7 @@ motorists, rash cyclists, cobblestones and incautious pedestrians. I have
 already grown to loathe the tourists[^2], who seem to prefer loitering in the
 street to actually touring the university. On rainy evenings I am a peril on
 rickety wheels, whizzing across the slick surface of King's Parade with my bell
-continuously dinging. The return to College is better: The townspeople go to bed
+continuously dinging. The return to College is better: Townspeople go to bed
 early and one can enjoy, for a few minutes, the uninterrupted flow of freezing
 air across bare knuckles.
 
