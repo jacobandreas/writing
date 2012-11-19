@@ -7,3 +7,4 @@ categories : [food]
 - Stewed tomatoes and broccoli
 - Sweet potatoes, chard and curry powder
 - Caramelized onions and rice
+- Mushrooms and kasha
