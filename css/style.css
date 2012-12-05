@@ -27,7 +27,7 @@ img {
   border-width: 10px 0 5px 0;
 }*/
 
-h1, h2, h3 {
+h1, h2 {
   font-family: 'Lato', sans-serif;
 }
 
@@ -35,7 +35,7 @@ h1 {
   font-weight: 300;
 }
 
-h2, h3 {
+h2 {
   font-weight: 900;
 }
 
@@ -59,8 +59,8 @@ h2 {
 }
 
 h3 {
-  font-size: 1.125em;
-  line-height: 1.333em;
+  /*font-size: 1.125em;
+  line-height: 1.333em;*/
   margin: 0.889em 0;
 }
 
@@ -249,3 +249,20 @@ sup, sub {
 }
 
 sub { top: 0.4em; }
+
+.highlight {
+  padding: 1px 1em;
+  background: #eee;
+  margin: -1px -1em;
+}
+
+.togglemarker {
+  position: relative;
+  top: -.1em;
+}
+
+.postmeta {
+  text-indent: 0;
+  font-style: italic;
+  margin-top: 1em;
+}

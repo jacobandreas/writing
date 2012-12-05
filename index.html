@@ -1,14 +1,40 @@
 ---
 title:  Writing
 layout: index
-cat_order: [churchill, school, misc, reading, food]
+cat_order: [school, misc, reading, food]
 cat_names:
-  churchill: Churchill Letters
   school:    College Days
   misc:      Uncategorizable
   reading:   The Bookshelf
   food:      The Pantry
 ---
+
+<h2>Churchill Letters</h2>
+<div class='collapse highlight'>
+  <h3>Overture</h3>
+  <ul class='nobullet'>
+    <li><a href='{{ site.BASE_PATH }}churchill/island.html'>Island</a></li>
+  </ul>
+  <h3>Michaelmas</h3>
+  <ul class='nobullet'>
+    <li><a href='{{ site.BASE_PATH }}churchill/storeys-end.html'>The House at
+      Storey's End</a></li>
+    <li><a href='{{ site.BASE_PATH }}churchill/city-centre.html'>City
+      Centre</a></li>
+    <li><a href='{{ site.BASE_PATH }}churchill/gunpowder-plot.html'>Gunpowder
+      Plot</a></li>
+    <li><a href='{{ site.BASE_PATH }}churchill/london.html'>City of
+      London</a></li>
+    <li><a href='{{ site.BASE_PATH }}churchill/vocame.html'>Vocame cum
+      Benedictis</a></li>
+  </ul>
+  <!--<h3>Interval (Christmas)</h3>
+  <h3>Lent</h3>
+  <h3>Interval (Spring)</h3>
+  <h3>Easter</h3>
+  <h3>Finale (Summer)</h3>-->
+</div>
+
 {% for raw_category in page.cat_order %}
   {% assign pretty_category = page.cat_names[raw_category] %}
   {% assign category_posts = site.categories[raw_category] %}
