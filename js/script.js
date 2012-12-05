@@ -16,6 +16,7 @@ function setup() {
         toggle_marker.addClass('closed');
         localStorage['closed'] = 'true';
       }
+      return false
     });
     if (localStorage['closed'] === null) {
       localStorage['closed'] = 'false';
