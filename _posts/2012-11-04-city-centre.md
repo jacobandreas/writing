@@ -28,6 +28,13 @@ storybook names like "Ede and Ravenscroft", dance clubs, bookstores, cheese
 shops. Overpriced sausage and d&ouml;ner carts prey on gullible foreigners
 during the day and drunken students at night.
 
+Names advertise that the tenuous confederation called the University of
+Cambridge has persisted and will persist long after any of its buildings or
+faculties: we have Old Addenbrooke's (once a hospital, now a business school);
+the Old Press; the New Museums (more than a century old, and home to the Old
+Cavendish and Old Computer Laboratories, each of whose occupants have moved to a
+New location in West Cambridge).
+
 The mile and a half from my door to the center of town is a gauntlet of angry
 motorists, rash cyclists, cobblestones and incautious pedestrians. I have
 already grown to loathe the tourists[^2], who seem to prefer loitering in the
