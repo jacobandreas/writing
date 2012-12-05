@@ -37,18 +37,18 @@ New location in West Cambridge).
 
 The mile and a half from my door to the center of town is a gauntlet of angry
 motorists, rash cyclists, cobblestones and incautious pedestrians. I have
-already grown to loathe the tourists[^2], who seem to prefer loitering in the
-street to actually touring the university. On rainy evenings I am a peril on
-rickety wheels, whizzing across the slick surface of King's Parade with my bell
-continuously dinging. The return to College is better: Townspeople go to bed
-early and one can enjoy, for a few minutes, the uninterrupted flow of freezing
-air across bare knuckles.
+already grown to loathe the tourists, who seem to prefer loitering mid-street in
+inane conversation [^2] to actually touring the university. On rainy evenings I
+am a peril on rickety wheels, whizzing across the slick surface of King's Parade
+with my bell continuously dinging. The return to College is better: Townspeople
+go to bed early and one can enjoy, for a few minutes, the uninterrupted flow of
+freezing air across bare knuckles.
 
 [^1]: Or should that be anti-Tardis? I've neither seen the television series
       nor read the novel.
 
-[^2]: Standing <em>in the middle of the intersection</em> in front of the [Corpus
-      Clock](http://en.wikipedia.org/wiki/Corpus_Clock): 
+[^2]: Standing <em>in the center of the intersection</em> in front of the
+      [Corpus Clock](http://en.wikipedia.org/wiki/Corpus_Clock): 
       &#8220;&#26159;&#38047;&#21527;&#65311;&#8221;
       &#8220;&#19981;&#26159;&#38047;&#12290;&#8221;
       &#8220;&#26159;&#38047;&#65292;&#26159;&#38047;&#21834;&#65281;&#8221;
