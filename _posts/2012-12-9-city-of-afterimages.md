@@ -4,18 +4,18 @@ layout: essay
 categories: [churchill]
 ---
 
-We've come to London, at a friend's urging, to watch the world's "7<sup>th</sup>
-best" DJ (what kind of standards agency could possibly issue such a ranking?),
-but arrived early for a day of museum visits. The Klein and Moriyama
-photography exhibition at the Tate is breathtaking and exhausting[^1]. It is
-already dark, but still hours before the show, when we step out into the
-cheerful corridor of pop-up Christmas shops along the Thames; it is decided to
-enjoy, in turn, the National Portrait Gallery and beer.  The gallery's parade of
-scientific and political luminaries, smiling condescendingly in glossy dinner
-jackets, is enough to make a comfortable pale-skinned graduate student who has
-never known a day's involuntary privation nostalgic for the lost glory of
-Emprie. The one-legged man in a filthy army coat crying out below Charing Cross
-is enough to destroy all nostalgia.
+We've come to London, at a friend's urging, to watch the world's "7<span
+class='ord'>th</span> best" DJ (what kind of standards agency could possibly
+issue such a ranking?), but arrived early for a day of museum visits. The Klein
+and Moriyama photography exhibition at the Tate is breathtaking and
+exhausting[^1]. It is already dark, but still hours before the show, when we
+step out into the cheerful corridor of pop-up Christmas shops along the Thames;
+it is decided to enjoy, in turn, the National Portrait Gallery and beer.  The
+gallery's parade of scientific and political luminaries, smiling condescendingly
+in glossy dinner jackets, is enough to make a comfortable pale-skinned graduate
+student who has never known a day's involuntary privation nostalgic for the lost
+glory of Emprie. The one-legged man in a filthy army coat crying out below
+Charing Cross is enough to destroy all nostalgia.
 
 The tube stop nearest the club is called "Elephant and Castle". Arriving
 aboveground, we discover a bar or Thai restaurant named "Elephant and Castle" in
@@ -40,9 +40,9 @@ might have been built with the labor expended in toning the thousand biceps
 swelling in time against designer T-shirts---I feel slightly absurd: unable to
 change after the morning's excursion, I've tied my REI fleece around the neck of
 my button-down shirt[^2] and stuffed the museum guides deep into my pockets.
-From my position near the back of the room the 7<sup>th</sup> best DJ in the
-world is invisible for most of the show. We are treated instead to a video
-montage of storm troopers having their eardrums blown out and the DJ being
+From my position near the back of the room the 7<span class='ord'>th</span> best
+DJ in the world is invisible for most of the show. We are treated instead to a
+video montage of storm troopers having their eardrums blown out and the DJ being
 famous on more photogenic stages. The dance floor is claustrophobic and there is
 little space for dancing beyond a futile crustacean twitching of the forearms
 and shins. On our right is a party of baby-faced, reddening Koreans in oxfords

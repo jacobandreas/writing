@@ -271,6 +271,12 @@ sub { top: 0.4em; }
   font-style: italic;
 }
 
+.ord {
+  font-size: .8em;
+  position: relative;
+  bottom: .2em;
+}
+
 .footnotes {
   margin-top: 3em;
 }
