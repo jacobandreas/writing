@@ -266,3 +266,11 @@ sub { top: 0.4em; }
   font-style: italic;
   margin-top: 1em;
 }
+
+.foreign {
+  font-style: italic;
+}
+
+.footnotes {
+  margin-top: 3em;
+}

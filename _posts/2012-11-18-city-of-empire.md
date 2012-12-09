@@ -1,5 +1,5 @@
 ---
-title: City of London
+title: City of Empire
 layout: essay
 categories: [churchill]
 ---
