@@ -15,7 +15,9 @@ gallery's parade of scientific and political luminaries, smiling condescendingly
 in glossy dinner jackets, is enough to make a comfortable pale-skinned graduate
 student who has never known a day's involuntary privation nostalgic for the lost
 glory of Emprie. The one-legged man in a filthy army coat crying out below
-Charing Cross is enough to destroy all nostalgia.
+Charing Cross destroys all nostalgia.
+
+<img src="../attachments/london-3.jpg" />
 
 The tube stop nearest the club is called "Elephant and Castle". Arriving
 aboveground, we discover a bar or Thai restaurant named "Elephant and Castle" in
@@ -34,6 +36,8 @@ laser-lit haze and bone-rattling speakers which stretch from ceiling to floor.
 It is thrilling and disorienting to find one's body transformed into a
 percussion instrument, thin skin wrapped around a column of air vibrating
 hideously.
+
+<img src="../attachments/london-5.jpg" />
 
 In a place as concerned with appearances as music---one or two small pyramids
 might have been built with the labor expended in toning the thousand biceps
@@ -57,6 +61,8 @@ underground grumbles to life. At eight we collapse in North London, rising in
 the early afternoon to watch the light die behind stained glass at Westminster
 evensong, with vision still barred black by the flash of remembered strobe
 lights.
+
+<img src="../attachments/london-4.jpg" />
 
 [^1]: The Kleins are better. The show is encyclopedic, with (several!) complete
 books of photographs sliced down the spine and splayed along a wall. I regard
