@@ -40,8 +40,9 @@ methodically slide ourselves into the seats, interleaving legs, elbows and table
 struts and, realizing that we are expected to eat with our hands, to unfold
 ourselves again, toddling one-by-one to the washroom for a vigorous scrubbing.
 
-The menu, English _recto_ and Arabic _verso_, seems to consist almost entirely
-of slabs of chicken and lamb simmered at great length in various more or less
+The menu, English <span class='foreign'>recto</span> and Arabic <span
+class='foreign'>verso</span>, seems to consist almost entirely of slabs of
+chicken and lamb simmered at great length in various more or less
 indistinguishable sauces. We chose randomly, but incorrectly: the kitchen has
 run out of our first choice, and our second, and our third. We eventually allow
 the waiter to order for us.

@@ -3,15 +3,15 @@ title : New Yorker Science Fiction Issue
 layout : essay
 categories : [reading]
 ---
-Just finished the latest _New Yorker_, dubbed "The Science Fiction Issue". What
-struck me (other than the really phenomenal collection of personal reflections
-from sci-fi authors of repute they managed to assemble[^1]) is how little
-science fiction the issue actually contains. The four fiction pieces--by _NYer_
-regulars Lipsyte, Lethem, Egan and D&iacute;az--all take place in the future,
-but a passing reference to self-aware military drones or eyeball-cameras does
-not science fiction make. Sci-fi is "fiction in which ideas play an important
-part"[^2]; this is what makes _Quicksilver_ a work of science fiction, though
-it's set in the 18th century, and D&iacute;az's story a work of "regular"
+Just finished the latest <cite>New Yorker</cite>, dubbed "The Science Fiction
+Issue". What struck me (other than the really phenomenal collection of personal
+reflections from sci-fi authors of repute they managed to assemble[^1]) is how
+little science fiction the issue actually contains. The four fiction pieces--by
+_NYer_ regulars Lipsyte, Lethem, Egan and D&iacute;az--all take place in the
+future, but a passing reference to self-aware military drones or eyeball-cameras
+does not science fiction make. Sci-fi is "fiction in which ideas play an
+important part"[^2]; this is what makes _Quicksilver_ a work of science fiction,
+though it's set in the 18th century, and D&iacute;az's story a work of "regular"
 fiction (if such a thing may be said to exist), though it's ostensibly set late
 in the 21st. Indeed, none of the pieces, with the possible exception of
 Lethem's, had anything to do with ideas; technology was used for stylistic

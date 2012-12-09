@@ -182,20 +182,20 @@ hr {
   text-decoration: none;
 }
 
-.essay p sup {
+.essay sup {
   font-size: 1em;
   top: 0;
 }
 
-.essay p sup a {
+.essay sup a {
   text-decoration: none;
 }
 
-.essay p sup a:before {
+.essay sup a:before {
   content: ' [';
 }
 
-.essay p sup a:after {
+.essay sup a:after {
   content: ']';
 }
 
