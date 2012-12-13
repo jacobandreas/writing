@@ -1,13 +1,13 @@
 ---
-title: City of Afterimages
+title: City of Images
 layout: essay
 categories: [churchill]
 ---
 
 We've come to London, at a friend's urging, to watch the world's "7<span
-class='ord'>th</span> best" DJ (what kind of standards agency could possibly
-issue such a ranking?), but arrived early for a day of museum visits. The Klein
-and Moriyama photography exhibition at the Tate is breathtaking and
+class='ord'>th</span> best" DJ (what kind of standards authority could possibly
+issue such a ranking?), but have arrived early for a day of museum visits. The
+Klein and Moriyama photography exhibition at the Tate is breathtaking and
 exhausting[^1]. It is already dark, but still hours before the show, when we
 step out into the cheerful corridor of pop-up Christmas shops along the Thames;
 it is decided to enjoy, in turn, the National Portrait Gallery and beer.  The
@@ -41,17 +41,15 @@ hideously.
 
 In a place as concerned with appearances as music---one or two small pyramids
 might have been built with the labor expended in toning the thousand biceps
-swelling in time against designer T-shirts---I feel slightly absurd: unable to
-change after the morning's excursion, I've tied my REI fleece around the neck of
-my button-down shirt[^2] and stuffed the museum guides deep into my pockets.
-From my position near the back of the room the 7<span class='ord'>th</span> best
-DJ in the world is invisible for most of the show. We are treated instead to a
-video montage of storm troopers having their eardrums blown out and the DJ being
-famous on more photogenic stages. The dance floor is claustrophobic and there is
-little space for dancing beyond a futile crustacean twitching of the forearms
-and shins. On our right is a party of baby-faced, reddening Koreans in oxfords
-and checked shirts; on our left a woman, face creased deeply with age, twitching
-with poignant feeling, alone.
+swelling in time against designer T-shirts---I feel slightly absurd dressed for
+a museum outing. From my position near the back of the room the 7<span
+class='ord'>th</span> best DJ in the world is invisible for most of the show. We
+are treated instead to a video montage of storm troopers having their eardrums
+blown out and the DJ being famous on more photogenic stages. The dance floor is
+claustrophobic and there is little space for dancing beyond a futile crustacean
+twitching of the forearms and shins. On our right is a party of baby-faced,
+reddening Koreans in Oxfords and checked shirts; on our left a woman, face
+creased deeply with age, twitching with poignant feeling, alone.
 
 At four in the morning we stumble out of the club. We're hungry and promptly
 swindled by a nearby kebab shop. We spend the next half hour wandering slowly
@@ -67,5 +65,3 @@ lights.
 [^1]: The Kleins are better. The show is encyclopedic, with (several!) complete
 books of photographs sliced down the spine and splayed along a wall. I regard
 this as irresponsible curation.
-
-[^2]: (Call it survivalist prep?)

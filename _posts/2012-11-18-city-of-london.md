@@ -1,5 +1,5 @@
 ---
-title: City of Empire
+title: City of London
 layout: essay
 categories: [churchill]
 ---
@@ -36,7 +36,6 @@ British Museum.  Two shocks: the first when one of our hosts sticks his hand out
 and introduces himself with my benefactor's surname, the second when I suddenly
 recognize the former prime minister's eyes in his daughter's and granddaughter's
 faces.
-
 The granddaughter, in discussing her father's appointment as ambassador to
 France, mentions in passing that hers "is a conservative family". Another
 curiosity: I have no doubt that American political orientations hew just as
