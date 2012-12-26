@@ -18,7 +18,7 @@ function setup() {
       }
       return false
     });
-    if (localStorage['closed'] === null) {
+    if (localStorage['closed'] === undefined) {
       localStorage['closed'] = 'true';
     }
     if (localStorage['closed'] === 'true') {
