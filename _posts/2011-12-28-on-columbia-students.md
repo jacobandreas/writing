@@ -1,5 +1,5 @@
 ---
-title : On Columbia Students
+Title : On Columbia students
 layout : essay
 categories : [school]
 ---

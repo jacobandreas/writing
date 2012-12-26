@@ -1,5 +1,5 @@
 ---
-title : On Community, Administration and Mental Health
+title : On community, administration and mental health
 layout : essay
 categories : [school]
 ---
