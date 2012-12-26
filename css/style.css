@@ -280,3 +280,34 @@ sub { top: 0.4em; }
 .footnotes {
   margin-top: 3em;
 }
+
+.sta {
+  font-weight: bold;
+  margin-top: 1em;
+  text-indent: 0;
+}
+
+.exp {
+  font-style: italic;
+  text-indent: 0;
+}
+
+.rmk:before {
+  content: 'Rmk ';
+  font-weight: bold;
+}
+
+.rmk {
+  margin-top: 1em;
+  text-indent: 0;
+}
+
+.ex:before {
+  content: 'Ex ';
+  font-weight: bold;
+}
+
+.ex {
+  margin-top: 1em;
+  text-indent: 0;
+}
