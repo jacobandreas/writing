@@ -19,7 +19,7 @@ function setup() {
       return false
     });
     if (localStorage['closed'] === null) {
-      localStorage['closed'] = 'false';
+      localStorage['closed'] = 'true';
     }
     if (localStorage['closed'] === 'true') {
       toggle_marker.html(' &blacktriangleright;');
