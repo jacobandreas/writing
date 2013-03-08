@@ -2,7 +2,7 @@ function setup() {
   $('.collapse').each(function(idx) {
     collapser = $(this);
     toggler = collapser.prev();
-    toggler.wrapInner('<a href="#">');
+    toggler.wrapInner('<a class="toggleheader" href="#">');
     toggle_marker = $('<span class="togglemarker"></span>');
     toggle_marker.appendTo(toggler);
     toggler.click(function() {

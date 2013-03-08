@@ -119,7 +119,7 @@ a {
   color: #009;
 }
 
-a:visited {
+a:visited, .toggleheader {
   color: #055;
 }
 
