@@ -5,16 +5,14 @@
 
 html {
   border-style: solid;
-  border-color: #f20;
+  border-color: black;
   border-width: .5em 0em 0em 0em;
 }
 
 body {
-  /*background: url(../images/bg.png) rgb(246,246,246);*/
   font-family: 'Arimo', sans-serif;
   line-height: 1.666em;
   width: 45em;
-  /*margin: 5em auto;*/
   margin: 5em;
   font-size: 15px;
   color: #333;
