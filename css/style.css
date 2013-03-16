@@ -62,7 +62,7 @@ h2 {
   word-spacing: .3em;
   font-weight: 900;
   font-size: 1em;
-  line-height: 1em;
+  line-height: 1.333em;
   margin: 1.333em 0;
 }
 
@@ -81,7 +81,7 @@ p + p {
 
 p.offset {
   text-indent: 0;
-  margin-top: 1.5em;
+  margin-top: 1em;
 }
 
 /* fancy text */
@@ -202,6 +202,10 @@ pre code {
 
 #links {
   margin-top: 0;
+}
+
+#links a {
+  margin-right: .5em;
 }
 
 p.backlinks {
