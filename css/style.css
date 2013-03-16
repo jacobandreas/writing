@@ -26,6 +26,10 @@ body.fluid {
   float: right;
 }
 
+section {
+  margin: 2.667em 0;
+}
+
 body.fluid section {
   margin: -1em 3em 3em 0;
   width: 20em;
