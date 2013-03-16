@@ -200,11 +200,7 @@ pre code {
 
 /* navigation elements */
 
-#links {
-  margin-top: 0;
-}
-
-#links a {
+.links a {
   margin-right: .5em;
 }
 
