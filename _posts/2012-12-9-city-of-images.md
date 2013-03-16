@@ -8,7 +8,7 @@ We've come to London, at a friend's urging, to watch the world's "7<span
 class='ord'>th</span> best" DJ (what kind of standards authority could possibly
 issue such a ranking?), but have arrived early for a day of museum visits. The
 Klein and Moriyama photography exhibition at the Tate is breathtaking and
-exhausting[^1]. It is already dark, but still hours before the show, when we
+exhausting.[^1] It is already dark, but still hours before the show, when we
 step out into the cheerful corridor of pop-up Christmas shops along the Thames;
 it is decided to enjoy, in turn, the National Portrait Gallery and beer.  The
 gallery's parade of scientific and political luminaries, smiling condescendingly

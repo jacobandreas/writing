@@ -53,17 +53,17 @@ think, succeeds in this; whether it does so as a result of neglect rather than
 deliberate choice is unimportant.
 
 The omphaloskeptical mindset is good for at least one thing: attracting
-donations from alumni. A pattern among Bwog commenters, after expressing
-disgust at their treatment by Columbia, is to announce that Columbia doesn't
-deserve a cent of donation money from alumni. This, too, is wrong. We should
-give: to provide more aid, to put more freshmen in Furnald, and to prevent
-Columbia from becoming the sort of place that has to convince students that it
-is the entire world in order to keep the doors open.
+donations from alumni. A pattern among Bwog commenters, after expressing disgust
+at their treatment by Columbia, is to announce that Columbia doesn't deserve a
+cent of donation money from alumni. This, too, is wrong. We should give,
+precisely in order to prevent Columbia from becoming the sort of place that has
+to convince students that it is the entire world in order to keep the doors
+open.
 
 ---
 
-Update: Lucy makes a much smarter (and certainly more important) point than the
-one I was originally intending to make: that the university's cultivation (or
+Update: Lucy makes a smarter (and certainly more important) point than the one I
+was originally intending to make: that the university's cultivation (or
 non-cultivation) of a "campus community" does not change the fact that we have
 an individual obligation to look out for the people around us.
 

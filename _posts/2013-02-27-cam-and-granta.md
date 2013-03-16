@@ -28,7 +28,7 @@ toward its distant terminus at King's Lynn.
 
 In months of rowing we have seen the Cam in all her moods: when, bloated with
 rainwater, she tugs at the rolling boathouse doors; when, on windy days, small
-waves on her surface break backwards and show her flowing in the wrong
+waves on her surface roll backward and show her flowing in the wrong
 direction; when, at dawn's first breaking, she wreaths herself in a delicate
 pink haze, in coal-smoke and barges' grumbling. On icy mornings we glide through
 silent compaines of mute swans, our blades balanced and feathered, hovering

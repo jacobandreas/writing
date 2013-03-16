@@ -23,11 +23,11 @@ hope it will be a worthwhile exercise.
 ***
 
 In a feat unusual for recruiting publications, every claim the Columbia
-literature makes about the sort of people who come here is true. There was a
-well-known ballroom dancer in my LitHum class; I was once invited to a birthday
-party with no fewer than three princes in attendance; my old roommate had a bit
-of a scheduling panic at the beginning of last summer because she'd won so many
-scholarships she found herself required to attend three receptions
+literature makes about the sort of people who come here is true. There was an
+accomplished ballroom dancer in my LitHum class; I was once invited to a
+birthday party with no fewer than three princes in attendance; my old roommate
+had a bit of a scheduling panic at the beginning of last summer because she'd
+won so many scholarships she found herself required to attend three receptions
 simultaneously on opposite sides of the country. That guy you do your problem
 sets with turns out to be a NIPS reviewer; the girl sitting behind you in
 lecture has a column in _Forbes_; some kid in your Chinese class has been all
@@ -36,13 +36,12 @@ proficient in several ancient languages. And so on.
 
 Of course there are exceptions: barely-competent essayists, prospective
 economists who can't wrap their minds around differential calculus and (my
-personal scourge) computer scientists who cannot for the life of them write a
-well-formed proof. This is usually brushed away with an insistence that they're
-just good at something else, which I am willing to grant for students in
-University Writing and Principles of Economics but not in graduate cryptography
-courses. Even at a school like this, there are enough spots set aside for
-athletes, legacies and donors' children that one is guaranteed a certain number
-of duds.[^2]
+personal hell) computer scientists who cannot write a well-formed proof. Such
+cases are usually brushed away with an insistence that they're just good at
+something else, which I am willing to grant for students in University Writing
+and Principles of Economics but not in graduate cryptography courses. Even at a
+school like this, there are enough spots set aside for athletes, legacies and
+donors' children that one is guaranteed a certain number of duds.[^2]
 
 There's a broader issue: we purport to assemble the most interesting student
 body possible, but the usual inputs to the admissions process---SAT scores,
@@ -74,9 +73,9 @@ Then again, density is just density. One can only make so many friends; being
 surrounded by smart people one doesn't know is only useful insofar as it makes
 for good campus theater in the form of public spats between student groups and
 celebrities.[^5] Intelligent students can be found with only slightly more
-effort at any school of reasonable size, and I have little doubt it is possible
-to have just as intellectually satisfying an experience within the CUNY system
-as at Columbia. Much as we like to flaunt our impressive student body,
+effort at any school of reasonable size, and I have little doubt that it is
+possible to have just as intellectually satisfying an experience within the CUNY
+system as at Columbia. Much as we like to flaunt our impressive student body,
 exceptional students are probably the least exceptional thing any university can
 offer.
 

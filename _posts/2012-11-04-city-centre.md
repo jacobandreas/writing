@@ -26,7 +26,7 @@ same building. Into facades alternately steel-clad and half-timbered are crammed
 wine merchants, vendors of upmarket yoga wear, centuries-old clothiers with
 storybook names like "Ede and Ravenscroft", dance clubs, bookstores, cheese
 shops. Overpriced sausage and d&ouml;ner carts prey on gullible foreigners
-during the day and drunken students at night.
+during the day and drunk students at night.
 
 Names advertise that the tenuous confederation called the University of
 Cambridge has persisted and will persist long after any of its buildings or

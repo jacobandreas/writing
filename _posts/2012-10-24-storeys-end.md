@@ -47,7 +47,7 @@ faces of the walls that contain them; vaguely menacing cubist beast-sculptures
 rise up at intervals from obsessively-tended lawns. The only feature I really
 enjoy is the airy, wood-paneled dining hall, where I (surprisingly often) find
 myself lingering in conversation over a plate of rudely boiled root vegetables
-or a candlelit glass of wine.
+or a glass of wine.
 
 <img src="../attachments/storeys-end-2.jpg" />
 
