@@ -18,7 +18,8 @@ squint at the stack trace and then perform the necessary navigation myself.
 `vim-ipython` provides various means of passing information back and forth
 between Vim and an IPython console, some useful (docstrings) and some not, but
 doesn't support integrated debugging of the kind I want. At least, it didn't
-until this afternoon.
+until this afternoon. [Here's a
+fork](https://github.com/jacobandreas/vim-ipython).
 
 Various small adjustments need to be made in the message-passing between the Vim
 plugin and IPython kernel to let Vim read the output of executed commands. (I'm
