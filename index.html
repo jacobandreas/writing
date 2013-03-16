@@ -12,6 +12,7 @@ hidden_cats:
   food:      The Pantry
 ---
 
+<section>
 <h2>Churchill Letters</h2>
 <div class='collapse indented'>
   <h3>Yom Kippur</h3>
@@ -52,18 +53,22 @@ hidden_cats:
   <!--<h3>Passover</h3>
   <h3>Easter</h3>-->
 </div>
+</section>
 
 {% for raw_category in page.cat_order %}
   {% assign pretty_category = page.cat_names[raw_category] %}
   {% assign category_posts = site.categories[raw_category] %}
+<section>
 <h2>{{ pretty_category }}</h2>
 <ul class='nobullet'>
   {% for post in category_posts %}
     <li><a href='{{ site.BASE_PATH }}{{ post.url }}'>{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+</section>
 {% endfor %}
 
+<section>
 <h2>Elsewhere</h2>
 <ul class='nobullet'>
   <li><a href="http://www.columbiaspectator.com/2012/04/10/numerically-human">
@@ -71,3 +76,4 @@ hidden_cats:
   <li><a href="http://bwog.com/2012/05/02/senior-wisdom-jacob-andreas/">
     Bwog Senior Wisdom</a></li>
 </ul>
+</section>
