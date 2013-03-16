@@ -313,3 +313,8 @@ div.highlight pre {
   margin: .5em -.5em;
   font-size: .8em;
 }
+
+.collapse.indented {
+  border-left: 1px solid #333;
+  padding-left: 1em;
+}
