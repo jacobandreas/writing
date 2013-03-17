@@ -168,7 +168,7 @@ ul.nobullet {
 
 /* multimedia */
 
-img, iframe {
+.essay img, .essay iframe {
   outline: .25em solid #000;
   margin: 1.667em 0;
   max-width: 100%;
