@@ -168,10 +168,17 @@ ul.nobullet {
 
 /* multimedia */
 
-.essay img, .essay iframe {
-  outline: .25em solid #000;
+.gallery img, .essay iframe {
+  outline: .25em solid #333;
   margin: 1.667em 0;
   max-width: 100%;
+}
+
+.essay img {
+  outline: 2px solid #333;
+  float: right;
+  width: 28em;
+  margin-right: -34em;
 }
 
 code {
