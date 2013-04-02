@@ -6,27 +6,27 @@ categories: [churchill]
 
 _'Oranges and lemons,' say the bells of St. Clements_
 
-<img src='../attachments/citrus-clements.jpg' />
+<img class='inline' src='../attachments/citrus-clements.jpg' />
 
 _'You owe me five farthings,' say the bells of St. Martins_
 
-<img src='../attachments/citrus-martins.jpg' />
+<img class='inline' src='../attachments/citrus-martins.jpg' />
 
 _'When will you pay me?' say the bells of Old Bailey_
 
-<img src='../attachments/citrus-bailey.jpg' />
+<img class='inline' src='../attachments/citrus-bailey.jpg' />
 
 _'When I grow rich,' say the bells of Shoreditch_
 
-<img src='../attachments/citrus-shoreditch.jpg' />
+<img class='inline' src='../attachments/citrus-shoreditch.jpg' />
 
 _'When will that be?' say the bells of Stepney_
 
-<img src='../attachments/citrus-stepney.jpg' />
+<img class='inline' src='../attachments/citrus-stepney.jpg' />
 
 _'I do not know,' says the great bell of Bow_
 
-<img src='../attachments/citrus-bow.jpg' />
+<img class='inline' src='../attachments/citrus-bow.jpg' />
 
 _Here comes a candle to light you to bed <br />
 Here comes a chopper to chop off your head_

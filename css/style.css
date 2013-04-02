@@ -14,11 +14,12 @@ html {
 }
 
 body {
-  width: 45em;
-  margin: 5em;
+  max-width: 45em;
+  margin: 2em;
 }
 
 body.fluid {
+  max-width: none;
   width: auto;
 }
 
@@ -77,10 +78,6 @@ h3 {
 
 p {
   text-align: left;
-}
-
-p + p {
-  text-indent: 1em;
 }
 
 p.offset {
@@ -174,11 +171,36 @@ ul.nobullet {
   max-width: 100%;
 }
 
-.essay img {
+.essay img, .essay img.inline {
   outline: 2px solid #333;
-  float: right;
-  width: 28em;
-  margin-right: -34em;
+  float: none;
+  width: 100%;
+  margin: 2em 0;
+}
+
+@media only screen and (min-width: 1300px) {
+  .essay img {
+    float: right;
+    width: 28em;
+    margin: 0 -34em 0 0;
+  }
+
+  p + p, img + p {
+    text-indent: 1em;
+  }
+
+  img.inline + p, h1 + img + p {
+    text-indent: 0;
+  }
+
+  img.inline + img {
+    margin-top: 2em;
+  }
+
+  body {
+    width: 45em;
+    margin: 5em;
+  }
 }
 
 code {
