@@ -87,12 +87,19 @@ p.offset {
 
 /* fancy text */
 
-a {
+a, a.secret:hover {
   color: #009;
+  text-decoration: underline;
 }
 
 a:visited, .toggleheader {
   color: #055;
+  text-decoration: underline;
+}
+
+a.secret {
+  color: #000;
+  text-decoration: none;
 }
 
 .foreign {
