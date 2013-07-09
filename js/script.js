@@ -56,9 +56,9 @@ function set_special_topline() {
 }
 
 function fill_dynamic() {
-  $.get('http://dynamic.jacobandreas.net/harvard', function(data) {
-    $('.dynamic-harvard').text(data);
-  });
+  //$.get('http://dynamic.jacobandreas.net/harvard', function(data) {
+  //  $('.dynamic-harvard').text(data);
+  //});
 }
 
 $(document).ready(function() {

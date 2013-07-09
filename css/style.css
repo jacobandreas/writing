@@ -9,8 +9,8 @@
 
 html {
   border-style: solid;
-  border-color: black;
-  border-width: .5em 0 0 0;
+  border-color: #333;
+  border-width: 0;
 }
 
 body {
@@ -28,7 +28,7 @@ body.fluid {
 }
 
 section {
-  margin: 2.667em 0;
+  margin-bottom: 2.667em;
 }
 
 body.fluid section {
@@ -38,10 +38,24 @@ body.fluid section {
   vertical-align: top;
 }
 
+body.columns {
+  width: auto;
+  max-width: none;
+}
+
+body.columns .column {
+  width: 37em;
+  float: left;
+}
+
+body.columns .column:first-child {
+  margin-top: 0;
+}
+
 hr {
   border: none;
   border-top: 1px solid #ccc;
-  margin: 1em 0;
+  margin-bottom: 1em;
 }
 
 /* text styling */
@@ -68,21 +82,17 @@ h2 {
   font-weight: 900;
   font-size: 1em;
   line-height: 1.333em;
-  margin: 1.333em 0;
+  margin-bottom: 1.333em;
 }
 
 h3 {
-  margin: 0.889em 0;
+  margin-bottom: 0.889em;
   font-size: 1em;
 }
 
-p {
+p, p.offset {
   text-align: left;
-}
-
-p.offset {
-  text-indent: 0;
-  margin-top: 1em;
+  margin-bottom: 1.666em;
 }
 
 /* fancy text */
@@ -118,7 +128,7 @@ blockquote {
 }
 
 ul, ol {
-  margin: 1em 0;
+  margin-bottom: 1em;
 }
 
 li {
@@ -174,7 +184,7 @@ ul.nobullet {
 
 .gallery img, .essay iframe {
   outline: .25em solid #333;
-  margin: 1.667em 0;
+  margin-bottom: 1.667em;
   max-width: 100%;
 }
 
@@ -182,7 +192,7 @@ ul.nobullet {
   outline: 2px solid #333;
   float: none;
   width: 100%;
-  margin: 2em 0;
+  margin-bottom: 2em;
 }
 
 .essay .margin {
@@ -196,14 +206,6 @@ ul.nobullet {
     float: right;
     width: 28em;
     margin: 0 -34em 0 0;
-  }
-
-  p + p, img + p {
-    text-indent: 1em;
-  }
-
-  img.inline + p, h1 + img + p {
-    text-indent: 0;
   }
 
   img.inline + img {
@@ -252,8 +254,8 @@ pre code {
 
 p.backlinks {
   text-align: right;
-  text-indent: 0;
   margin-top: 1.5em;
+  clear: both;
 }
 
 .togglemarker {
@@ -267,7 +269,6 @@ p.backlinks {
 }
 
 .postmeta {
-  text-indent: 0;
   font-style: italic;
   margin-top: 1em;
   color: #666;

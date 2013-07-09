@@ -1,2 +1,3 @@
 permalink: none
-BASE_PATH: /writing
+baseurl:   /writing
+pygments:  true

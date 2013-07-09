@@ -5,12 +5,12 @@
       rel='stylesheet' type='text/css' />
     <link href='http://fonts.googleapis.com/css?family=Arimo'
       rel='stylesheet' type='text/css' />
-    <link href='{{ site.BASE_PATH }}/css/style.css' rel='stylesheet' 
+    <link href='{{ site.baseurl }}/css/style.css' rel='stylesheet' 
       type='text/css' />
     <script type="text/javascript"
       src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js">
     </script>
-    <script type="text/javascript" src="{{ site.BASE_PATH }}/js/script.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/js/script.js"></script>
     <script type="text/javascript">
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-2625914-8']);
@@ -23,7 +23,7 @@
       })();
     </script>
   </head>
-  <body class='fluid'>
+  <body class='columns'>
     <h1 class='name'>{{page.title}}</h1>
 {{ content }}
     <p class='backlinks'>&larr; <a href="http://jacobandreas.net">home</a></p>

@@ -12,73 +12,34 @@ hidden_cats:
   food:      The Pantry
 ---
 
-<section>
-<h2>Fenlands</h2>
-<div class='collapse indented'>
-  <h3>Yom Kippur</h3>
+<div class='column'>
+  {% for raw_category in page.cat_order %}
+    {% assign pretty_category = page.cat_names[raw_category] %}
+    {% assign category_posts = site.categories[raw_category] %}
+  <section>
+  <h2>{{ pretty_category }}</h2>
   <ul class='nobullet'>
-    <li><a href='{{ site.BASE_PATH }}/churchill/island.html'>Island</a></li>
+    {% for post in category_posts %}
+      <li><a href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a></li>
+    {% endfor %}
   </ul>
-  <h3>Michaelmas</h3>
-  <ul class='nobullet'>
-    <li><a href='{{ site.BASE_PATH }}/churchill/storeys-end.html'>The House at
-      Storey's End</a></li>
-    <li><a href='{{ site.BASE_PATH }}/churchill/city-centre.html'>City
-      Centre</a></li>
-    <li><a href='{{ site.BASE_PATH }}/churchill/gunpowder-plot.html'>Gunpowder
-      Plot</a></li>
-    <li><a href='{{ site.BASE_PATH }}/churchill/city-of-london.html'>City of
-      London</a></li>
-    <li><a href='{{ site.BASE_PATH }}/churchill/vocame.html'>Vocame cum
-      Benedictis</a></li>
-  </ul>
-  <h3>&#7716;anukkah</h3>
-  <ul class='nobullet'>
-    <li><a href='{{ site.BASE_PATH }}/churchill/city-of-images.html'>City
-      of Images</a></li>
-    <li><a href='{{ site.BASE_PATH }}/churchill/bombay.html'>Bombay</a></li>
-    <li><a href='{{ site.BASE_PATH }}/churchill/city-of-citrus.html'>City of
-      Citrus</a></li>
-    <li><a href='{{ site.BASE_PATH }}/churchill/maroc.html'>Maroc</a></li>
-  </ul>
-  <h3>Lent</h3>
-  <ul class='nobullet'>
-    <li><a href='{{ site.BASE_PATH }}/churchill/the-spirit-jar.html'>The Spirit
-      Jar</a></li>
-    <li><a href='{{ site.BASE_PATH }}/churchill/cam-and-granta.html'>Cam and
-      Granta</a></li>
-    <li><a href='{{ site.BASE_PATH }}/churchill/hall.html'>Hall</a></li>
-    <li><a href='{{ site.BASE_PATH }}/churchill/lents.html'>Lents</a></li>
-  </ul>
-  <h3>Passover</h3>
-  <ul class='nobullet'>
-    <li><a href='{{ site.BASE_PATH }}/churchill/white.html'>White</a></li>
-    <li><a href='{{ site.BASE_PATH }}/churchill/the-low-countries.html'>The Low
-      Countries</a></li>
-  </ul>
-  <!--<h3>Easter</h3>-->
-</div>
-</section>
-
-{% for raw_category in page.cat_order %}
-  {% assign pretty_category = page.cat_names[raw_category] %}
-  {% assign category_posts = site.categories[raw_category] %}
-<section>
-<h2>{{ pretty_category }}</h2>
-<ul class='nobullet'>
-  {% for post in category_posts %}
-    <li><a href='{{ site.BASE_PATH }}{{ post.url }}'>{{ post.title }}</a></li>
+  </section>
   {% endfor %}
-</ul>
-</section>
-{% endfor %}
 
-<section>
-<h2>Elsewhere</h2>
-<ul class='nobullet'>
-  <li><a href="http://www.columbiaspectator.com/2012/04/10/numerically-human">
-    Numeracy and the Core</a></li>
-  <li><a href="http://bwog.com/2012/05/02/senior-wisdom-jacob-andreas/">
-    Bwog Senior Wisdom</a></li>
-</ul>
-</section>
+  <section>
+  <h2>Elsewhere</h2>
+  <ul class='nobullet'>
+    <li><a href="http://www.columbiaspectator.com/2012/04/10/numerically-human">
+      Numeracy and the Core</a></li>
+    <li><a href="http://bwog.com/2012/05/02/senior-wisdom-jacob-andreas/">
+      Bwog Senior Wisdom</a></li>
+  </ul>
+  </section>
+</div>
+
+<article class='column'>
+  {% assign latest_journal = site.categories['churchill'][0] %}
+  {{ latest_journal.excerpt }}
+
+  <a href='{{ site.baseurl }}journals.html'>More journals</a>.
+</article>
