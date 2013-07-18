@@ -41,5 +41,6 @@ hidden_cats:
   {% assign latest_journal = site.categories['churchill'][0] %}
   {{ latest_journal.excerpt }}
 
-  <a href='{{ site.baseurl }}/journals.html'>More journals</a>.
+  <a href='{{ site.baseurl }}{{latest_journal.url }}'>{{ latest_journal.title }}</a>;
+  <a href='{{ site.baseurl }}/journals.html'>more journals</a>.
 </article>
