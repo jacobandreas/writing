@@ -38,7 +38,13 @@
 {{content}}
 
 <p class='postmeta'>&mdash; {{ page.date | date: "%e %B %Y" }}</p>
-<p class='backlinks'>&larr; <a href='{{ site.baseurl }}'>writing</a></p>
+<p class='backlinks'>&larr; 
+  {% if page.categories contains 'churchill' %}
+    <a href='{{ site.baseurl }}/journals.html'>journals</a>,
+  {% endif %}
+  <a href='{{ site.baseurl }}/'>text</a>,
+  <a href='http://jacobandreas.net'>home</a>
+</p>
 
   </body>
 
