@@ -22,7 +22,7 @@ we enter an unassuming brick church with an astonishing green interior, painted
 minutely on every surface and terminating in an outrageous Baroque altar that,
 for once, doesn't look too extravagant for the structure that contains it.
 
-Our remaining day in Amsterdam: the Stjendal museum, a brief and frigid meal in
+Our remaining day in Amsterdam: the Stedelijk museum, a brief and frigid meal in
 the open air, a long walk to the transplanted van Gogh museum, The Potato
 Eaters, The Yellow House, Sunflowers, Cypresses and Two Women, coffee,
 rijsttafel, more beer.
