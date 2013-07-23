@@ -252,6 +252,10 @@ pre code {
   margin-right: .5em;
 }
 
+.links a:last-child {
+  margin-right: 0;
+}
+
 p.backlinks {
   text-align: right;
   margin-top: 1.5em;
