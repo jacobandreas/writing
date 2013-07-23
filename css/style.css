@@ -135,10 +135,6 @@ li {
   margin-bottom: .667em;
 }
 
-ul.nobullet li {
-  margin-bottom: 1.667em;
-}
-
 ul {
   list-style-type: square;
 }
