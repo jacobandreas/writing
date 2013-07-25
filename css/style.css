@@ -128,7 +128,7 @@ blockquote {
 }
 
 ul, ol {
-  margin-bottom: 1em;
+  margin-bottom: 1.667em;
 }
 
 li {
@@ -152,7 +152,7 @@ ul.nobullet {
 }
 
 .footnotes li {
-  margin-bottom: 1em;
+  margin-bottom: 1.667em;
 }
 
 .footnotes a[rev='footnote'] {
@@ -192,7 +192,7 @@ ul.nobullet {
   outline: 2px solid #333;
   float: none;
   width: 100%;
-  margin-bottom: 2em;
+  margin-bottom: 1.667em;
 }
 
 .essay .margin {
