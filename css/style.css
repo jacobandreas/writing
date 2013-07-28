@@ -131,7 +131,7 @@ ul, ol {
   margin-bottom: 1.667em;
 }
 
-li {
+li, li p {
   margin-bottom: .667em;
 }
 
