@@ -1,3 +1,4 @@
 permalink: none
 baseurl:   /writing
 pygments:  true
+excerpt_separator: "<!-- more -->"
