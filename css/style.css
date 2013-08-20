@@ -238,13 +238,19 @@ pre code {
 /* publications */
 
 .papertitle {
-  text-decoration: underline;
+  /*text-decoration: underline;*/
   display: block;
+  font-weight: bold;
 }
 
-.paperinfo {
+/*.paperinfo {
   color: #666;
+}*/
+
+.notapaper {
+  color: #777;
 }
+  
 
 /* navigation elements */
 
