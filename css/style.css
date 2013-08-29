@@ -240,7 +240,8 @@ pre code {
 .papertitle {
   /*text-decoration: underline;*/
   display: block;
-  font-weight: bold;
+  font-weight: 900;
+  font-family: 'Lato';
 }
 
 /*.paperinfo {
