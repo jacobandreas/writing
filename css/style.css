@@ -15,7 +15,7 @@ html {
 
 body {
   max-width: 45em;
-  margin: 2em;
+  margin: 5em;
 }
 
 body.fluid {
@@ -203,7 +203,7 @@ ul.nobullet {
   margin-left: 10%;
 }
 
-@media only screen and (min-width: 1300px) {
+/*@media only screen and (min-width: 1300px) {
   .essay img, .essay .margin {
     float: right;
     width: 28em;
@@ -218,7 +218,7 @@ ul.nobullet {
     width: 45em;
     margin: 5em;
   }
-}
+}*/
 
 code {
   background: #eee;
