@@ -1,0 +1,16 @@
+ol { 
+  counter-reset: item; 
+}
+
+ol ol {
+  padding-left: 2em;
+}
+
+ol li:before { 
+  content: counters(item, ".") " "; 
+  counter-increment: item;
+}
+
+ol li {
+  list-style-type: none;
+}
