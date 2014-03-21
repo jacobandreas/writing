@@ -55,10 +55,11 @@ deliberate choice is unimportant.
 The omphaloskeptical mindset is good for at least one thing: attracting
 donations from alumni. A pattern among Bwog commenters, after expressing disgust
 at their treatment by Columbia, is to announce that Columbia doesn't deserve a
-cent of donation money from alumni. This, too, is wrong. We should give,
-precisely in order to prevent Columbia from becoming the sort of place that has
-to convince students that it is the entire world in order to keep the doors
-open.
+cent of donation money from alumni. This, too, is wrong (though it's a more
+complicated question whether any donation to a university is ethical). It seems
+that one ought to give precisely in order to prevent Columbia from becoming the
+sort of place that has to convince students that it is the entire world in order
+to keep the doors open.
 
 ---
 
