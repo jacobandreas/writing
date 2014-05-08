@@ -1,5 +1,6 @@
 permalink: none
 baseurl:   
-drafts:    false
+drafts:    true
 pygments:  true
 excerpt_separator: "<!-- more -->"
+markdown: kramdown
