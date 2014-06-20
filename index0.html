@@ -1,0 +1,46 @@
+---
+title:  Text
+layout: index
+cat_order: [mind, tools, school, misc]
+cat_names:
+  school:    College Days
+  misc:      Uncategorizable
+  mind:      Intelligence & Artifice
+  tools:     Tools
+hidden_cats:
+  reading:   The Bookshelf
+  food:      The Pantry
+---
+
+<div class='column'>
+  {% for raw_category in page.cat_order %}
+    {% assign pretty_category = page.cat_names[raw_category] %}
+    {% assign category_posts = site.categories[raw_category] %}
+  <section>
+  <h2>{{ pretty_category }}</h2>
+  <ul class='nobullet'>
+    {% for post in category_posts %}
+      <li><a href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  </section>
+  {% endfor %}
+
+  <section>
+  <h2>Elsewhere</h2>
+  <ul class='nobullet'>
+    <li><a href="http://www.columbiaspectator.com/2012/04/10/numerically-human">
+      Numeracy and the Core</a></li>
+    <li><a href="http://bwog.com/2012/05/02/senior-wisdom-jacob-andreas/">
+      Bwog Senior Wisdom</a></li>
+  </ul>
+  </section>
+</div>
+
+<article class='column'>
+  {% assign latest_journal = site.categories['berkeley'][0] %}
+  {{ latest_journal.excerpt }}
+
+  <a href='{{ site.baseurl }}{{latest_journal.url }}'>{{ latest_journal.title }}</a>;
+  <a href='{{ site.baseurl }}/journals.html'>more journals</a>.
+</article>
