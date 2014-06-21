@@ -5,12 +5,12 @@ exclude: [reading, food]
 ---
 
 <article class='column'>
-  <ol class='nobullet'>
+  <ul class='nobullet'>
     {% for post in site.posts %}
       {% if post.categories[0] == 'reading' or post.categories[0] == 'food' %}
       {% else %}
         <li><a href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a></li>
       {% endif %}
     {% endfor %}
-  </ol>
+  </ul>
 </article>
