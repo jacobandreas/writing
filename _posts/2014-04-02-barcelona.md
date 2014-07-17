@@ -40,7 +40,7 @@ Alas, still no details about Julia.  As we leave, I ask the woman at the cash
 register whether there was a waitress named Julia employed some time in the last
 ten years. She seems totally unsurprised by the question. "Ah, Julia," she says
 (<em>Julia</em> with a Catalan <em>j</em>, before she corrects herself and
-switches to Spanish).  "Columbian. Pretty. A good worker. After ten years maybe
+switches to Spanish).  "Colombian. Pretty. A good worker. After ten years maybe
 not so much anymore. She doesn't work here now."
 
 ---
