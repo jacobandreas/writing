@@ -1,4 +1,4 @@
-permalink: none
+permalink: /:title.html
 baseurl:   /writing
 pygments:  true
 excerpt_separator: "<!-- more -->"

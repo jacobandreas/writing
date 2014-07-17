@@ -1,4 +1,4 @@
-permalink: none
+permalink: /:title.html
 baseurl:   
 drafts:    true
 pygments:  true

@@ -4,13 +4,31 @@ layout: index
 exclude: [reading, food]
 ---
 
+<h2>
+  Research
+</h2>
+
+<h2>
+  Journals
+</h2>
+
+<h2>
+  Other
+</h2>
+
 <article class='column'>
   <ul class='nobullet'>
     {% for post in site.posts %}
       {% if post.categories[0] == 'reading' or post.categories[0] == 'food' %}
       {% else %}
-        <li><a href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a></li>
+      <li class='{{ post.categories[0] }}'>
+        <a href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a>
+      </li>
       {% endif %}
     {% endfor %}
+    <li class='school'><a href="http://www.columbiaspectator.com/2012/04/10/numerically-human">
+      Numeracy and the Core</a></li>
+    <li class='school'><a href="http://bwog.com/2012/05/02/senior-wisdom-jacob-andreas/">
+      Bwog Senior Wisdom</a></li>
   </ul>
 </article>
