@@ -4,7 +4,7 @@ layout: essay
 categories: [churchill]
 ---
 
-<img src="../attachments/london-3.jpg" />
+<img src="attachments/london-3.jpg" />
 
 We've come to London, at a friend's urging, to watch the world's "7<span
 class='ord'>th</span> best" DJ (what kind of standards authority could possibly
@@ -28,7 +28,7 @@ insight into the provenance of the current establishment. Inside are
 tropical-print wallpaper, thumping dancehall music, green-tea scented candles,
 weak beer, comfortable sofas, antique side tables, and men with neck tattoos.
 
-<img src="../attachments/london-5.jpg" />
+<img src="attachments/london-5.jpg" />
 
 The last club I visited was a glossy shoeboxlike enclosure containing roughly a
 hundred fifty MIT students and one Canadian hip-hop sensation and former child
@@ -51,7 +51,7 @@ twitching of the forearms and shins. On our right is a party of baby-faced,
 reddening Koreans in Oxfords and checked shirts; on our left a woman, face
 creased deeply with age, twitching with poignant feeling, alone.
 
-<img src="../attachments/london-4.jpg" />
+<img src="attachments/london-4.jpg" />
 
 At four in the morning we stumble out of the club. We're hungry and promptly
 swindled by a nearby kebab shop. We spend the next half hour wandering slowly

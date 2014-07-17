@@ -20,9 +20,9 @@ bridges. A half-hour ride on clean a tube train so packed with impossibly polite
 commuters as to restrict breathing deposits me at my godmother's North London
 home.
 
-<img src="../attachments/london-1.jpg" />
+<img src="attachments/london-1.jpg" />
 
-We rise early the next morning for a backstage tour of the Cabinet War Rooms.
+We get up early the next morning for a backstage tour of the Cabinet War Rooms.
 The museum is precisely what the name suggests in at least two different
 senses---a kind of human-sized curio cabinet consisting of a series of
 glassed-off enclosures from which the defense of England was orchestrated. We
@@ -43,7 +43,7 @@ closely to family lines, but no American would admit to voting Democratic simply
 because her father did---party affiliations in the States are always matters of
 absolute moral rectitude.
 
-<img src="../attachments/london-2.jpg" />
+<img src="attachments/london-2.jpg" />
 
 Evening is a hipster bar with overpriced and undercarbonated beer, then an
 obligatory Brick Lane curry marred only by an unhealthy-looking blue lamp which

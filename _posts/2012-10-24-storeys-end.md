@@ -4,7 +4,7 @@ layout : essay
 categories : [churchill]
 ---
 
-<img src="../attachments/storeys-end-1.jpg" />
+<img src="attachments/storeys-end-1.jpg" />
 
 76 Storey's Way, now "Hostel V" in official college records, was once (more
 vividly) known as "Storey's End". In those days it belonged to Ludwig
@@ -49,7 +49,7 @@ enjoy is the airy, wood-paneled dining hall, where I (surprisingly often) find
 myself lingering in conversation over a plate of rudely boiled root vegetables
 or a glass of wine.
 
-<img src="../attachments/storeys-end-2.jpg" />
+<img src="attachments/storeys-end-2.jpg" />
 
 Things are quieter here than in the center of town. Ugly Churchill attracts few
 tourists, and neighboring Fitz and Murray Edwards even fewer, so the only

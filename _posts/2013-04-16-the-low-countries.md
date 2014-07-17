@@ -13,7 +13,7 @@ to visitors, but after <span class='foreign'>croques-monsieur</span> and more
 beer at the attached restaurant we stroll through the nearby fields as the sun
 goes down.
 
-<img src='../attachments/holland-1.jpg'>
+<img src='attachments/holland-1.jpg'>
 
 We tour Amsterdam the next morning in a haze (atmospheric, not pharmacological).
 Crooked canalside buildings loom in the fog and trams ring distantly at water
@@ -43,9 +43,9 @@ smell of manure from nearby fields and the acidity of pine. Our hostel turns out
 to be a gathering-place for Flemish expatriates in the heart of Wallonia, and at
 night locals crowd the bar and jabber animatedly in Dutch at the proprietor.
 
-<img src='../attachments/belgium-1-hdr.jpg' class='inline'>
+<img src='attachments/belgium-1-hdr.jpg' class='inline'>
 
-<img src='../attachments/belgium-4.jpg'>
+<img src='attachments/belgium-4.jpg'>
 
 Little figures of the crucifiction or the Piet&agrave; are scattered throughout
 the countryside.  We arrive early in Rochefort, where a monk inside the
@@ -60,7 +60,7 @@ though it's the weekend. The shed is jammed with brewing tuns, crates of beer,
 bottling and labeling machines. We talk hop and malt choices, lament Europeans'
 limited tolerance for bitterness, poke at his computer, then drink.
 
-<img src='../attachments/belgium-7.jpg'>
+<img src='attachments/belgium-7.jpg'>
 
 Next we drive to Watou, where we settle in to a palatial (and empty!) country
 house meant to hold a busload of beer tourists visiting St. Bernardus. We cycle
