@@ -226,6 +226,10 @@ code {
   padding: 0 .2em;
 }
 
+div.highlight {
+  margin-bottom: 1.666em;
+}
+
 div.highlight pre {
   font-size: .8em;
   padding: .667em;
