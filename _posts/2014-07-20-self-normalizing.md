@@ -70,8 +70,12 @@ n \in O\left( \frac{1}{\epsilon^2} \left(d\ \log^2 \frac{d}{\epsilon} +
 \]
 </div>
 
-where $$d$$ is the $$P_{\epsilon/24}$$-dimension of the function class. So all
-we need is a bound on $$P_\gamma$$.
+where $$d$$ is the $$P_{\epsilon/24}$$-dimension of the function class. Note
+that for this to work, we need the normalizer to be bounded. This is fine if the
+procedure that selects $$\theta$$ from training data is regularized---then the
+Ivanov view of regularization tells us that we're effectively choosing
+$$\theta$$ from inside a ball of fixed radius. So all we need is a bound on
+$$P_\gamma$$.
 
 Super-crude way of doing this: there's a standard way of getting VC bounds on
 parametric families involving basic arithmetic operations and conditionals, with
