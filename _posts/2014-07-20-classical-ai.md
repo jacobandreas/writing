@@ -64,12 +64,12 @@ max_val(state, alpha, beta):
     return utility(state)
   best = -inf
   for child in state.children:
-    v = min_val(child, alpha, beta) > best
+    v = min_val(child, alpha, beta)
     best = max(v, best)
     if v > beta:
-      return v # we will ignore this later
+      return v # Satan won't allow us to reach this state anyway
     alpha = max(v, alpha)
   return best
 {% endhighlight %}
 
-Foobar
+This is PH (for fixed-length games) or PSPACE.
