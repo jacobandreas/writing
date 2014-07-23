@@ -73,3 +73,68 @@ max_val(state, alpha, beta):
 {% endhighlight %}
 
 This is PH (for fixed-length games) or PSPACE.
+
+## Propositional logic
+
+The atomic elements of our universe are _propositions_, which we can combine
+with the usual set of logical operators. A model is just an assignment of truth
+and falsehood to atomic propositions.
+
+Key tool for deriving conclusions: _resolution_. First encode my whole knowledge
+base in CNF. Then from pairs of clauses, produce new clauses containing only the
+literals which don't disagree.
+
+Easy to prove $$K \entails \alpha$$ this way: just derive $$\bot$$ from $$K
+\land \not\alpha$$. Only finitely many clauses possible, so procedure eventually
+terminates.
+
+This is hard in general, but certain representations admit easy reasoning.
+Standard one: _Horn clauses_ of the form $$(A \land B \land \cdots) \Rightarrow
+Z$$. How do we work with these efficiently? _Forward chaining_: take clauses for
+which all antecedents have been proved, and add consequent until the desired
+result is obtained. _Backward chaining_: try to prove all antecedents of desired
+consequent (fast with memoization).
+
+Also lots of good ways of doing heuristic forward search, local search to find
+satisfying models.
+
+## First-order logic
+
+Now our atoms are _objects_, _relations_ and _functions_; we have the logical
+operators from PL, but also _existential_ and _universal_ quantification. A
+model is just an instantiation of all relations and atoms.
+
+Some new rules: any time we have a universal quantification, we can instantiate
+it explicitly by replacing the variable with some symbol. Any time we have an
+existential quantification, we can create a new constant (a "Skolem" constant)
+and replace the variable with that constant. This reduces the inference problem
+to PL inference, with the caveat that there are now infinitely many possible
+clauses, so inference is only semidecidable. We can be more sophisticated.
+
+Key tool: _unification_. Given $$p$$ and $$q$$, find a substitution $$\theta$$
+for free variables in both such that they become the same. Can do this in linear
+time.
+
+How do we do forward chaining here? Unification lets us define a generalized
+_modus ponens_; apply this immediately.
+
+Backward chaining? Again, has the form of a search problem where we want to
+repeatedly prove antecedents.
+
+Resolution? First, recall that for FOL it's incomplete (G&ouml;del!). As
+preprocessing, move all existential quantification to the outside, all negation
+onto atoms. Then remove existential quantifiers by Skolemization. Note one
+subtlety: Skolem constants depend on the variables they're scoped under---
+
+<div>
+\[
+  \forall x. \exists y. bar(x,y)
+  \neq
+  \forall x. bar(x,Y)
+\]
+</div>
+
+---so instead we write $$Y(x)$$ for the Skolemization. Finally turn everything
+into CNF. Then find $$\theta$$ which unifies the two clauses being annihilated,
+and substitute in everywhere else. Finally, can eliminate pairs of clauses
+which are not just identical (as in PL case), but unifiable.
