@@ -84,13 +84,13 @@ allow exponentials as well, the complexity becomes $$O(d^2 t^2)$$. For
 our denominator, we have $$kd$$ parameters, $$O(kd)$$ multiplications and
 additions (inside exponents), and then an additional $$O(k)$$ exponentials and
 additions (for a total of $$O(kd)$$ operations). Thus we get an upper bound on
-VC dimension of $$O((kd)^2 \cdot (kd)^2) \in O(k^4 d^4)$$. Plugging this in
+VC dimension of $$O((kd)^2 \cdot (kd)^2) = O(k^4 d^4)$$. Plugging this in
 above gives a PAC-style sample complexity of $$O(k^4 d^4 \log(k + d))$$. We need
 to do a little extra work to show that this also gives a scale-sensitive
 dimension for all choices of $$\gamma$$, but that's straightforward. 
 
-This is pretty dreadful, as in applications we expect $$d$$ to be quite large,
-but at least we have concentration.
+This is pretty dreadful, as in applications we expect both $$d$$ and $$k$$ to be
+quite large, but at least we have concentration.
 
 It's almost certainly possible to get a tighter bound, but I'm too lazy to do it
 right now. Intuition: the level sets of the normalizer are basically "soft"
@@ -101,7 +101,7 @@ as well---for a much more civilized sample complexity of $$O(d\ k\log k (\log k 
 overestimates the complexity of single halfspaces, so it's not surprising that
 it's pretty sloppy here as well.
 
-So questions left to answer: what's the real sample complexity? And from above:
+So questions left to answer: is this the real sample complexity? And from above:
 
 1. For what distributions over observations should we actually expect this to
 work?

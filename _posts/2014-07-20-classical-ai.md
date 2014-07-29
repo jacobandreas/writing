@@ -84,8 +84,8 @@ Key tool for deriving conclusions: _resolution_. First encode my whole knowledge
 base in CNF. Then from pairs of clauses, produce new clauses containing only the
 literals which don't disagree.
 
-Easy to prove $$K \entails \alpha$$ this way: just derive $$\bot$$ from $$K
-\land \not\alpha$$. Only finitely many clauses possible, so procedure eventually
+Easy to prove $$K \models \alpha$$ this way: just derive $$\bot$$ from $$K
+\land \neg\alpha$$. Only finitely many clauses possible, so procedure eventually
 terminates.
 
 This is hard in general, but certain representations admit easy reasoning.
@@ -138,3 +138,78 @@ subtlety: Skolem constants depend on the variables they're scoped under---
 into CNF. Then find $$\theta$$ which unifies the two clauses being annihilated,
 and substitute in everywhere else. Finally, can eliminate pairs of clauses
 which are not just identical (as in PL case), but unifiable.
+
+## Planning
+
+Why can't we just use generic search tools to solve planning? Typically huge
+branching factor, but also problems that decompose naturally into subproblems,
+and good general-purpose heuristics.
+
+How to represent a planning domain? STRIPS: state is a conjunction of positive
+literals (everything else assumed to be negative); actions either add or delete.
+Goals are conjunctions of positive literals. More general things: relax
+open-world assmption; allow negatives as well as positives. EVen more general:
+allow arbitrary first-order preconditions and goals.
+
+How to solve? Either forward search or backwards search. Lots of useful
+heuristics here: solve a relaxed planning problem (e.g. empty delete list), or
+assume subgoals are independent and their costs can be summed (this is
+inadmissible).
+
+Another general strategy for dealing with plans that factor: _partial order
+planning_. Here our search space consists of entire plans (DAGs), rather than
+states; operations for expanding nodes include adding additional edges to plan
+until every edge has all its preconditions satisfied.
+With FO planning language, may additionally want to apply action schemas only
+partially.
+
+Useful way of structuring heuristics: a _planning graph_. This is a DAG, divided
+into _levels_, where level $$t$$ contains all literals that could be true at
+time $$t$$, with mutual exclusion links between them. Levels alternate between
+states and actions. Actions are mutex if they have inconsistent preconditions,
+inconsistent effects, or if one negates the precondition of the other. Literals
+are mutex if they are inconsistent, or if every pair of actions which achieves
+them is mutex.
+
+From this graph we can extract a max-level heuristic (when does the last goal
+become achievable?), a level-sum heuristic (inadmissible) or a set-level
+heuristic (when do all of the goals become achievable?). Or we can extract a
+plan directly from the graph: for plans of increasing length, solve the
+corresponding planning graph, then treat it as a binary CSP and look for
+assignments that make it a well-formed solution.
+
+We can treat all of this as a theorem-proving problem: from initial state, want
+to prove $$\textit{initial state}^0 \land \textit{all actions} \land
+\textit{goal}^T$$ for $$T$$ increasing until we find a goal. Note that state
+representation needs both things that are true and negations of things that are
+false. Need axioms of the form
+<div>
+\[
+  \textit{state}^{t+1} \Leftrightarrow (\textit{state}^t \land \textrm{no action
+negates it}) \lor (\textrm{some action takes it} \land \textrm{preconditions
+satisfied})
+\]
+</div>
+Additionally need
+<div>
+\[ \textrm{action taken} \Rightarrow \textrm{preconditions satisfied} \]
+</div>
+and
+<div>
+\[ \textrm{mutual exclusion} \]
+</div>
+Now just hand it to a SAT solver.
+
+## Fancy planning
+
+What if we have durations? First find a partial order plan---then easy to
+schedule things.
+
+Can make things a lot better with hierarchical planning. Define a hierarchical
+task network---each step decomposes into multiple, more specific steps. Note
+that if recursive plans are allowed, this strictly generalizes partial-order
+planning.
+
+What about nondeterminism? A couple of options: _sensorless planning_ (solve the
+minimax problem) or replan on the fly. Also see POMDP stuff about representation
+of belief states, etc.
