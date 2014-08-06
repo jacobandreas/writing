@@ -4,11 +4,13 @@ ol {
 
 ol ol {
   padding-left: 2em;
+  margin-top: 1.667em;
 }
 
 ol li:before { 
   content: counters(item, ".") " "; 
   counter-increment: item;
+  display: block;
 }
 
 ol li {
