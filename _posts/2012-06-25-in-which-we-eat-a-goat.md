@@ -1,7 +1,7 @@
 ---
 title : In which we eat a goat
 layout : essay
-categories : [misc]
+categories : [columbia]
 ---
 
 (Or, "In which I unsucessfully attempt to derail my roommates'
