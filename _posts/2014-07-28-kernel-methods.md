@@ -1,5 +1,5 @@
 ---
-title: Mostly kernel methods
+title: "Prelim notes: Mostly kernel methods"
 layout: essay
 categories: [prelims]
 ---
@@ -101,7 +101,34 @@ normalize kernels.
 
 Distance between feature representations: $$k(x,x) + k(y,y) - 2k(x,y)$$.
 
-## PCA and CCA
+## Principal components analysis
+
+The eigenvectors of the covariance matrix $$X^\top X$$ (rows of $$X$$ are
+observations) are the directions of maximum covariance. (Let $$w$$ be a unit
+vector. Then the covariance of the data projected onto $$w$$ is proportional to
+$$w^\top X^\top  X w$$. This is a Rayleigh quotient, which is maximized by the
+largest eigenvalue of $$X^\top XX$$ for $$w$$ the largest eigenvector.)
+
+So if we project the data onto the first $$k$$ principal components, we wind up
+with a low-dimensional orthogonal basis, and it's easy to project other points.
+
+What if we want to work in a kernelized representations? The covariance matrix
+is a sum of outer products, not inner products, so we can't hope to compute the
+eigenvectors of the (kernelized) covariance matrix.
+
+Call $$U$$ the matrix whose columns are the eigenvectors of the covariance
+matrix, and $$V$$ the matrix whose columns are the eigenvectors of the kernel
+matrix. It is easy to show that $$X' v$$ is an eigenvector of $$C$$, and
+vice-versa; in particular, $$\lambda^{-1/2} X^\top v = u$$ and $$\lambda^{-1/2} Xu =
+v$$. Thus the first $$t$$ columns of $$U$$ are given by $$X^\top V_t
+\Lambda_t^{-1/2}$$. We can use this fact to project any vector onto the first
+$$t$$ kernelized principal components:
+
+<div>
+\[ P(\phi(x)) = \sum_{i=1}^l \alpha_i^j k(x_i, x) \]
+</div>
+
+where $$\alpha^j = \lambda^{-1/2} v_j$$.
 
 ## Kernel machines
 
@@ -214,6 +241,15 @@ y_j x_i^\top x_j \]
 s.t.
 \[ 0 \leq \alpha \leq \frac{C}{n} \]
 </div>
+
+### (Dual) linear regression
+
+Optimal params for linear regression have form $$(X^\top X)^{-1} X^\top y =
+(X^\top X) (X^\top X)^{-2} X^\top y = X \alpha$$ for some vector $$\alpha$$---so
+the predictor is just a linear combination of training examples. Kernelized
+version follows.
+
+TODO: in what sense is this a dual?
 
 ## The representer theorem
 

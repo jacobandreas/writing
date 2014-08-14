@@ -60,6 +60,7 @@ without occasional obligations at Queens' and Sunday trips to the farmers'
 market it would be very easy to forget about the existence of the medieval City
 altogether.
 
-[^1]: "Would you please ensure that you flush this toilet after use." "Won't you
-please put your dishes away when they are dry as there is very little counter
-space in the kitchen."
+[^1]:
+    "Would you please ensure that you flush this toilet after use." "Won't you
+    please put your dishes away when they are dry as there is very little counter
+    space in the kitchen."

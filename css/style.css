@@ -54,8 +54,9 @@ body.columns .column:first-child {
 
 hr {
   border: none;
-  border-top: 1px solid #ccc;
+  border-top: 2px solid #ccc;
   margin-bottom: 1.666em;
+  width: 61.8%;
 }
 
 /* text styling */
@@ -132,6 +133,10 @@ blockquote {
 
 ul, ol {
   margin-bottom: 1.667em;
+}
+
+ul ul, ul ol, ol ul, ol ol {
+  padding-left: 1.5em;
 }
 
 li, li p {

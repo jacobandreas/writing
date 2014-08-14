@@ -62,6 +62,7 @@ the early afternoon to watch the light die behind stained glass at Westminster
 evensong, with vision still barred black by the flash of remembered strobe
 lights.
 
-[^1]: The Kleins are better. The show is encyclopedic, with (several!) complete
-books of photographs sliced down the spine and splayed along a wall. I regard
-this as irresponsible curation.
+[^1]:
+    The Kleins are better. The show is encyclopedic, with (several!) complete
+    books of photographs sliced down the spine and splayed along a wall. I regard
+    this as irresponsible curation.

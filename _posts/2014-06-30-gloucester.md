@@ -4,8 +4,8 @@ layout: essay
 categories: [berkeley]
 ---
 
-This is about how I come to be barrelling dry-eyed down 81, listening to _Spem
-in Alium_, the sun in my face.
+I am barrelling dry-eyed down 81, listening to _Spem in Alium_, the sun in my
+face.
 
 I am determined to have Fun on this trip, coming up for air after a stressful
 conference, hopping from friends' beach house to townhouse in the sunny
@@ -55,7 +55,7 @@ before his portrait. And all I can think of, other than that Andrew was a swell
 guy and that I miss him terribly, is that the satisfaction this song and this
 Connecticut countryside give me (a catch in the throat, a tightness at the eyes)
 are no less accidental than his bewildering accident---a biochemical fluke---a
-handful of ions enough to make self-preservation a joy or a terror, make flesh
+handful of ions enough to make self-preservation a joy or a horror, make flesh
 into dew.
 
 It's been a long time since I listened to this song. The final cadence never
