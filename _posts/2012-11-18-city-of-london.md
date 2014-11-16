@@ -38,10 +38,11 @@ recognize the former prime minister's eyes in his daughter's and granddaughter's
 faces.
 The granddaughter, in discussing her father's appointment as ambassador to
 France, mentions in passing that hers "is a conservative family". Another
-curiosity: I have no doubt that American political orientations hew just as
+curiosity: 
+American political orientations hew just as
 closely to family lines, but no American would admit to voting Democratic simply
-because her father did---party affiliations in the States are always matters of
-absolute moral rectitude.
+because her father did---party affiliations in the States is always a matter of
+moral rectitude rather than tradition.
 
 <img src="attachments/london-2.jpg" />
 

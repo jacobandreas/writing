@@ -19,9 +19,9 @@ After a term of nearly-weekly practice I was barely able to ring a single chime
 on a regular interval. My only attempt at real method ringing, a handbell
 practice during Lent term, was disastrous.
 
-Method names are a contiuous source of amusement: the stately Cambridge Court
-Bob Royal, the pornographic Reverse Canterbury Pleasure Place Doubles, the
-inexplicable Plastic Swan Slow Course Minor.
+Method names---stately Cambridge Court Bob Royal, pornographic Reverse
+Canterbury Pleasure Place Doubles, inexplicable Plastic Swan Slow Course
+Minor---are a continuous source of amusement.
 
 The west coast has limited opportunities for change ringing, and the Bay Area
 none; since returning to the states I've instead had to take up a rather
@@ -31,4 +31,4 @@ get wrong but harder to make musical. I stumbled at the beginning of my final
 performance of the semester---it seems somehow worse than making an error in an
 ordinary recital, when your error is broadcast to every uninvited listener
 within a mile's radius; but correspondingly more satisfying to recover and make
-the hills ring with unexpected evening music.
+the hills ring with evening music.

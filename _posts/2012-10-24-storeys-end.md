@@ -6,8 +6,8 @@ categories : [churchill]
 
 <img src="attachments/storeys-end-1.jpg" />
 
-76 Storey's Way, now "Hostel V" in official college records, was once (more
-vividly) known as "Storey's End". In those days it belonged to Ludwig
+76 Storey's Way, now "Hostel V" to the bedders, was once more
+vividly known as "Storey's End". In those days it belonged to Ludwig
 Wittgenstein's doctor; Wittgenstein himself lived here during the final three
 months of his life, and is buried in a cemetary just around the corner.
 

@@ -5,11 +5,8 @@ categories: [berkeley]
 ---
 
 I am barrelling dry-eyed down 81, listening to _Spem in Alium_, the sun in my
-face.
-
-I am determined to have Fun on this trip, coming up for air after a stressful
-conference, hopping from friends' beach house to townhouse in the sunny
-East.
+face, determined to have Fun on this trip, coming up for air after a stressful
+conference, hopping from friends' beach house to townhouse in the sunny East.
 
 Andrew died. Several days ago, actually; suicide by means I haven't yet learned
 and can't bring myself to ask. I discover this when I open Facebook, trying to
@@ -33,9 +30,9 @@ people", I have seen his face....
 
 The Island is like a Rockwell painting---the hard coast too comfortably craggy,
 the sunset too pink, the wood vaults and granite towers and long lawns of this
-house too perfect, too perfect. And I am having Fun, of a refined, restorative
-sort, the sort involving the _Atlantic_ on the beach and expensive bottles of
-wine and unexpectedly long voyages in boats.
+house too much like a picture book. And I am having Fun, of a refined,
+restorative sort, the sort involving the _Atlantic_ on the beach and expensive
+bottles of wine and unexpectedly long voyages in boats.
 
 It seems like there should be a lingering discomfort at the base of my neck, a
 _memento mori_ with an easily-retrieved proximate cause. In fact for much of the

@@ -15,10 +15,9 @@ watch---students and townsfolk press up together against the barricades
 At half-past seven the fireworks begin. They are alarmingly close. Unlike in San
 Francisco or New York (whose shows are staged far over water to avoid setting
 light to dry grass or public housing) I can feel every rocket's discharge in my
-sternum---this spectacle is auditory as much as it is visual. The cheesy
-American fondness for pyrotechnic hearts and smiley-faces doesn't seem to have
-carried to England, and the show maintains a kind of tastefulness in spite of
-its extravagance.
+sternum. The cheesy American fondness for pyrotechnic hearts and smiley-faces
+doesn't seem to have carried to England, and the show maintains a kind of
+restrained tastefulness.
 
 The cessation of fireworks is followed shortly by a lighting of the eponymous
 bonfire. The pile of crates is twice as tall as a man, and at their height the

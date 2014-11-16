@@ -16,8 +16,8 @@ it is decided to enjoy, in turn, the National Portrait Gallery and beer.  The
 gallery's parade of scientific and political luminaries, smiling condescendingly
 in glossy dinner jackets, is enough to make a comfortable pale-skinned graduate
 student who has never known a day's involuntary privation nostalgic for the lost
-glory of Emprie. The one-legged man in a filthy army coat crying out below
-Charing Cross destroys all nostalgia.
+glory of Emprie. The one-legged man in a filthy army coat moaning below
+Charing Cross cures nostalgia.
 
 The tube stop nearest the club is called "Elephant and Castle". Arriving
 aboveground, we discover a bar or Thai restaurant named "Elephant and Castle" in
@@ -49,7 +49,7 @@ blown out and the DJ being famous on more photogenic stages. The dance floor is
 claustrophobic and there is little space for dancing beyond a futile crustacean
 twitching of the forearms and shins. On our right is a party of baby-faced,
 reddening Koreans in Oxfords and checked shirts; on our left a woman, face
-creased deeply with age, twitching with poignant feeling, alone.
+creased deeply with age, twitching poignantly, alone.
 
 <img src="attachments/london-4.jpg" />
 
@@ -57,10 +57,9 @@ At four in the morning we stumble out of the club. We're hungry and promptly
 swindled by a nearby kebab shop. We spend the next half hour wandering slowly
 through windy, desolate Southwark, eventually descending out of the cold into a
 tube station just as the first birds wake in the skeletal trees and the
-underground grumbles to life. At eight we collapse in North London, rising in
-the early afternoon to watch the light die behind stained glass at Westminster
-evensong, with vision still barred black by the flash of remembered strobe
-lights.
+underground grumbles to life. At eight we collapse in North London, recovering
+in the early afternoon to watch the light fall behind stained glass at
+Westminster evensong, vision still barred black by the flash of strobe lights.
 
 [^1]:
     The Kleins are better. The show is encyclopedic, with (several!) complete

@@ -31,7 +31,7 @@ chicken warehouse called _Los "Pollos" de Llull_. Naturally we have to go back:
 same d&eacute;cor, same checkered tablecloths, same menu, same curious lack of
 patronage. Our server is a stocky, dark-haired woman. "Julia?" I ask my parents
 after she leaves, but they shake their heads. At least I have material for half
-of the memory, now. I've learned something about food (and, I suppose, women) in
+of the memory, now. I've learned something about food (also, I suppose, women) in
 the last decade, and understand the chicken: loaded with thyme, and a sprinkling
 of curry powder, each piece moist with fat rendered, while rotating, from skin
 crisped to near-blackness.
@@ -54,8 +54,8 @@ crowd, waving baseball bats, with far-off police sirens behind. As quickly as
 it appeared, the mob evaporates, and we find ourselves in the middle of an empty
 street, a row of police in full riot gear charging directly towards us. (We duck
 out of the way.) The Catalan leaflets are incomprehensible, but smashed-in bank
-windows are a universal symbol. The alley we duck into returns us to ordinary
-nightlife, with intermittent recrossings---the protests, too, in waves.
+windows are not. The alley we duck into returns us to ordinary nightlife, with
+intermittent recrossings---the protests, too, in waves.
 
 ---
 

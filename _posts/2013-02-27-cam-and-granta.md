@@ -10,8 +10,8 @@ Upstream and southwest, it traces a lazy route towards the shady apple orchards
 of Grantchester. It's a popular route---Bertrand Russell paced it out
 religiously, Wittgenstein made the voyage by canoe; even today one always seems
 to cross paths with a familiar fellow or Nobel Laureate, shoes caked with mud,
-on the way to a cup of tea or a pint at the Green Man. In autumn the clotted
-cream is sweet and the trees are heavy with fruit.
+on the way to a cup of tea or a pint at the Green Man.  The Orchard's clotted
+cream is sweet and in autumn the trees are heavy with fruit.
 
 Immediately below the Silver Street crossing, even in frosty weather, the river
 carries a steady traffic of punts. Blanket-swaddled Chinese families listen in
@@ -35,6 +35,5 @@ silent compaines of mute swans, our blades balanced and feathered, hovering
 expectantly over the river's glassy surface.
 
 Water follows us: to our hostels, where sopping fleece and lycra drip puddles on
-our floors; to nine-o-clock lectures on quantum computation where the stink of
-the Cam, barely masked by spray-on antiperspirant, lingers above the chalky
-desks.
+our floors; to nine-o-clock Maths lectures where the stink of the Cam, barely
+masked by spray-on antiperspirant, lingers above the chalky desks.
