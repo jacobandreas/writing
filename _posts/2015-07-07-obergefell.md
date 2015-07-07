@@ -1,5 +1,5 @@
 ---
-title: Miscellaneous thoughts on _Obergefell_
+title: Miscellaneous thoughts on <i>Obergefell</i>
 layout: essay
 categories: [misc]
 ---
