@@ -15,8 +15,8 @@ categories: [misc]
    something fundamental. (Social, "spiritual"; not just legal.)
 
 3. This is precisely why Kennedy's opinion reads like a piece of poetry. How do
-   you convince a jurist that exclusion from this particular (and, I insist,
-   arbitrary) legal relationship amounts to a deprivation of life and liberty?
+   you convince a jurist that exclusion from this particular legal relationship
+   amounts to a deprivation of life and liberty?
 
 4. Roberts:
 
